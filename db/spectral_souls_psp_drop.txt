@@ -1,0 +1,1016 @@
+-------------------------------------------------------------------------------
+
+             Spectral Souls ~Resurrection of the Ethereal Empires~
+
+                          I T E M   D R O P   L I S T
+
+                               Author: swift412
+                           Email: swift412@gmail.com
+                                 Version: 1.00
+                   Last updated: 2007/04/11, 18:45 GMT+0200
+
+-------------------------------------------------------------------------------
+
+INTRODUCTION
+
+This is a list of items that shows which enemies they are dropped by. Easily 
+available or creatable items, such as Grass, Herb, Silver/Mythril/Fire/Wind
+elements/clusters etc., have been left out.
+
+This list was created by looking at the enemy data in the game. This is a
+list of all the instances of the enemies, and shows their stats, equipment,
+drops, skills etc. It does NOT show where they show up in the game. I do NOT
+know where to find all these enemies.
+
+Each enemy has four slots, each of which can have one item. When you kill 
+them you might receive one of these items. When you steal items, you steal 
+from these slots as well. I have no idea what the drop or steal percentage 
+rates are.
+
+-------------------------------------------------------------------------------
+
+  1. Short Sword 
+      Rate 1: Neverland Soldier (lvl 9)
+      Rate 3: Neverland Soldier (lvl 7), Fitishia Soldier (lvl 7)
+
+  2. Spatha
+      Rate 3: Anderson (lvl 10), Fitishia Soldier (lvl 8), 
+              Fitishia Soldier (lvl 8)
+
+  3. Tsurimaru 
+      Rate 3: Dragen (lvl 11)
+
+  4. Silver Sword
+      Rate 3: Simba Soldier (lvl 20)
+
+  5. Sabre 
+      Rate 3: Edison (lvl 17), Edison (lvl 17)
+
+  6. Broadsword
+      Rate 3: Orban (lvl 20)
+      Rate 4: Rock (lvl 1), Wooden Box (lvl 1)
+
+  7. Ice Brand 
+      Rate 3: Kraken (lvl 21)
+
+  8. Long Sword
+      Rate 3: Geoff IV (lvl 25), Laemellan (lvl 24), Restoll (lvl 25)
+
+  9. Arc Blade 
+      Rate 3: Sakks (lvl 31)
+      Rate 4: Lizard Man (lvl 44)
+
+ 10. Reverse Blade 
+      Rate 3: Miguel (lvl 28), Restoll (lvl 30)
+
+ 11. Conquistador
+      Rate 3: Siegfried (lvl 30), Ankrauser (lvl 35), Schwartz (lvl 35)
+
+ 12. Dragon Killer 
+      Rate 3: Bayard (lvl 35)
+
+ 13. Heptablade
+      Rate 4: Skeleton Soldier (lvl 53)
+
+ 14. Futsonomitama 
+      Rate 3: Anderson (lvl 45)
+      Rate 4: Skeleton Warrior (lvl 67)
+
+ 15. Flambaerke
+      Rate 3: Kreutz (lvl 49)
+
+ 16. Durandal
+      Rate 3: Greater Devil (lvl 74), Dragen (lvl 40), Anderson (lvl 40)
+
+ 17. Bloody Sword
+      Rate 3: Dragen (lvl 47)
+      Rate 4: Gargoyle (lvl 54)
+
+ 18. Kaiser Sword
+      Rate 3: Lindstrom (lvl 50)
+
+ 19. Angrauer
+      Rate 3: Skeleton Master (lvl 82), Valsung (lvl 50)
+
+ 20. Dainsleif 
+      Rate 3: Dark Knight (lvl 55, 69), Cassius (lvl 55, 60), Kreutz (lvl 100)
+
+ 21. Tenma Sword 
+      Rate 3: Janus (lvl 60, 65)
+
+ 22. Avenger 
+      Rate 3: Schwartz (lvl 51)
+
+ 23. Rusty Blade 
+      Rate 3: Valsung (lvl 100), Vermillion (lvl 100)
+
+ 24. Falchion
+      Rate 3: Fitishia Soldier (lvl 8)
+
+ 25. Viking Sword
+      Rate 2: Big Lizard (lvl 19)
+      Rate 3: Katz (lvl 10)
+
+ 26. Silver Blade
+      Rate 3: Simba Soldier (lvl 20)
+
+ 27. Kora
+      Rate 3: Zaha (lvl 18)
+
+ 28. Flare Buster
+      Rate 3: Neverland Soldier (lvl 20)
+
+ 29. Great Sword 
+      Rate 3: Gail (lvl 35)
+
+ 30. Tearfang
+      Rate 3: Odmak (lvl 39), Holy Captain (lvl 43)
+
+ 31. Seiryu Sword
+      Rate 4: Red Dragon (lvl 80)
+
+ 32. Brunhilda 
+      Rate 3: Devil Knight (lvl 79), Lawrence (lvl 49)
+
+ 33. Dragon Bender 
+      Rate 1: Luca (lvl 100)
+      Rate 3: Dragen (lvl 100)
+
+ 34. Musoufugoku 
+      Rate 1: Scarface (lvl 100), Yunellia (lvl 100)
+
+ 35. Butterfly Knife 
+      Rate 3: Neverland Soldier (lvl 9)
+
+ 36. Baselard
+      Rate 1: Wooden Box (lvl 1)
+      Rate 3: Wooden Box (lvl 1)
+
+ 37. Katar 
+      Rate 1: Barrel (lvl 1)
+      Rate 3: Violet (lvl 35), Treasure Box (lvl 1)
+
+ 38. Gladius 
+      Rate 2: Barrel (lvl 1)
+      Rate 3: Purple (lvl 35), Treasure Box (lvl 1)
+
+ 39. Hunter Sword
+      Rate 4: Death Bee (lvl 48)
+
+ 40. Mugen Claw
+      Rate 3: Violet (lvl 44)
+
+ 41. Hidden Ten
+      Rate 3: Purple (lvl 44)
+
+ 42. Krishna 
+      Rate 3: Golden Bat (lvl 72)
+
+ 43. Krutana 
+      Rate 3: Great Mummy (lvl 90)
+
+ 44. Brave Hunter
+      Rate 1: Arthus (lvl 100)
+
+ 45. Bonten
+      Rate 1: Rosette (lvl 100)
+
+ 46. Pilum 
+      Rate 1: Neverland Soldier (lvl 7)
+      Rate 3: Fitishia Soldier (lvl 7)
+
+ 47. Lance 
+      Rate 1: Neverland Soldier (lvl 9)
+      Rate 3: Neverland Soldier (lvl 7), Barrel (lvl 1)
+
+ 48. Sarissa 
+      Rate 1: Barrel (lvl 1)
+      Rate 3: Fitishia Soldier (lvl 8)
+      Rate 4: Gremlin (lvl 14)
+
+ 49. Silver Spear
+      Rate 3: Simba Soldier (lvl 20)
+
+ 50. Corsica 
+      Rate 3: Leila (lvl 20)
+
+ 51. Harpoon 
+      Rate 3: Nikolai (lvl 25)
+
+ 52. Partisan
+      Rate 1: Barrel (lvl 1), Treasure Box (lvl 1)
+      Rate 3: Seyzer (lvl 30), Treasure Box (lvl 1)
+
+ 53. Javelin 
+      Rate 4: Treasure Box (lvl 1)
+
+ 54. Bardiche
+      Rate 3: Holy Soldier (lvl 37, 38), Klause (lvl 45), Fallzen (lvl 44)
+
+ 55. Sleipnir
+      Rate 3: Fallzen (lvl 100)
+      Rate 4: Dark Angel (lvl 94)
+
+ 56. Highwind
+      Rate 4: Angel Knight (lvl 84)
+
+ 57. Augerbrick
+      Rate 1: Nora (lvl 100)
+
+ 58. Healing Staff 
+      Rate 1: Wooden Box (lvl 1)
+      Rate 3: Hans (lvl 10)
+
+ 59. Flame Rod 
+      Rate 3: Hobgoblin (lvl 16)
+
+ 60. Lightning Rod 
+      Rate 3: Neverland Soldier (lvl 20)
+
+ 61. Gale Spike
+      Rate 3: Neverland Soldier (lvl 21)
+
+ 62. Morning Star
+      Rate 3: Gobskin (lvl 19)
+
+ 63. Ruby Wand 
+      Rate 3: Neverland Soldier (lvl 31)
+
+ 64. Force Rod 
+      Rate 1: Wooden Box (lvl 1)
+      Rate 3: Holy Soldier (lvl 42)
+
+ 65. Kath Yanga
+      Rate 4: Crystal Lord (lvl 90)
+
+ 66. Material Wand 
+      Rate 3: Minald (lvl 100)
+
+ 67. Rodriguez III 
+      Rate 1: Hera (lvl 100)
+
+ 68. Nemesis 
+      Rate 1: Corwin (lvl 100)
+
+ 69. Rune Blade
+      Rate 1: Choco (lvl 100)
+
+ 70. Adakh 
+      Rate 3: Wooden Box (lvl 1)
+
+ 71. Iron Claw 
+      Rate 3: Barrel (lvl 1), Wooden Box (lvl 1)
+
+ 72. Clutch Knuckle
+      Rate 1: Wooden Box (lvl 1)
+      Rate 3: Li Feilong (lvl 30)
+
+ 73. Gatling Knuckle 
+      Rate 3: Wage (lvl 45)
+
+ 74. Dragon's Claw 
+      Rate 3: Li Feilong (lvl 49)
+
+ 75. Demon's Finger
+      Rate 3: Li Feilong (lvl 45)
+
+ 76. Saint's Hand
+      Rate 3: Guenevere (lvl 50)
+
+ 77. Genbu Gauntlet
+      Rate 3: Guenevere (lvl 100)
+      Rate 4: Werewolf King (lvl 64)
+
+ 78. Basaltus
+      Rate 1: Zhang Khan (lvl 100)
+
+ 79. Kaiser Knuckle
+      Rate 1: Yen (lvl 100)
+
+ 80. Falkin's Horn 
+      Rate 3: Jekyll (lvl 49, 56)
+
+ 81. Dragon Wing 
+      Rate 3: Jekyll (lvl 100)
+
+ 82. Mobius Link 
+      Rate 1: Fredrika (lvl 100)
+
+ 83. Quinqu Rain 
+      Rate 3: Jed (lvl 30)
+
+ 84. Quick Load
+      Rate 3: Sancho (lvl 30)
+
+ 85. Liquid Fire 
+      Rate 3: Sancho (lvl 51, 54, 55)
+
+ 86. Railgun 
+      Rate 3: Heimdall (lvl 52, 53)
+
+ 87. Magic Rifle 
+      Rate 3: Heimdall (lvl 100)
+
+ 88. Argemein
+      Rate 1: Max (lvl 100)
+
+ 89. Executioner 
+      Rate 3: Dark Dragon (lvl 90), Illfx (lvl 52, 55)
+
+ 90. GOH Replica 
+      Rate 3: Illfx (lvl 100)
+
+ 91. Bracelet
+      Rate 3: Trevor (lvl 11)
+
+ 92. Thunder Guard 
+      Rate 3: Huntz (lvl 16)
+
+ 93. Wind Guard
+      Rate 3: Vampus (lvl 21)
+
+ 94. Earth Guard 
+      Rate 3: Bazgel (lvl 20)
+
+ 95. Ghost Bangle
+      Rate 3: Oberon (lvl 22)
+
+ 96. Golden Bracelet 
+      Rate 3: Mirra (lvl 30), Gazanka (lvl 16), Neverland Soldier (lvl 23), 
+              Barrel (lvl 1), Wooden Box (lvl 1)
+
+ 97. Sterling Bracelet 
+      Rate 3: Gail (lvl 20), Amadeus (lvl 23), Neverland Soldier (lvl 23), 
+              Vough (lvl 25), Li Feilong (lvl 23)
+      Rate 4: Skeleton (lvl 28)
+
+ 98. White Frame 
+      Rate 3: Hillo (lvl 19), Siegfried (lvl 25)
+
+ 99. Dream's Hazard
+      Rate 3: Neverland Soldier (lvl 32), Cadis (lvl 34), 
+              Simba Captain (lvl 33), Simba Captain (lvl 33)
+
+100. Marine Rouge
+      Rate 3: Neverland Soldier (lvl 32), Simba Captain (lvl 32)
+
+101. Red Savage
+      Rate 3: Neverland Soldier (lvl 32)
+
+102. Moon Guard
+      Rate 3: Richmond (lvl 32)
+
+103. Jade Bracelet 
+      Rate 1: Treasure Box (lvl 1)
+      Rate 3: Schwartz (lvl 30), Simba Captain (lvl 28), Rodimus (lvl 33), 
+              Lawrence (lvl 35), Wooden Box (lvl 1), Barrel (lvl 1)
+
+      Rate 4: Imp (lvl 39)
+
+104. Magic Frame 
+      Rate 3: Lara (lvl 35)
+
+105. Three Stars 
+      Rate 4: Crustacean (lvl 55)
+
+106. Mythril Bracelet
+      Rate 3: Nessus (lvl 36), Holy Captain (lvl 41)
+
+107. Mythril Bangle
+      Rate 3: Holy Soldier (lvl 39)
+
+108. Force Frame 
+      Rate 3: Lara (lvl 49, 56), Minald (lvl 53, 54)
+
+109. Homura
+      Rate 3: Siegfried (lvl 52), Siegfried (lvl 55)
+      Rate 4: Kreutz (lvl 53, 54), Siegfried (lvl 55)
+
+110. Raitei
+      Rate 3: Davu (lvl 40), Bayard (lvl 52, 55)
+
+111. Mogura
+      Rate 3: Holy Captain (lvl 36)
+
+112. Dark Bracelet 
+      Rate 3: Dark Hillo (lvl 60)
+
+113. Wild Fang 
+      Rate 3: Homini (lvl 37), Odmak (lvl 37)
+
+114. Vacuum Bracelet 
+      Rate 3: Barrock (lvl 36)
+
+115. Dragon Scale
+      Rate 3: Logul (lvl 38)
+
+116. Thorn Bracelet
+      Rate 3: Holy Captain (lvl 37)
+
+117. Triguard
+      Rate 1: Treasure Box (lvl 1)
+      Rate 3: Kaiser Slime (lvl 93), Kilos (lvl 40), Li Feilong (lvl 100)
+
+118. Byakko Bracelet 
+      Rate 3: Li Feilong (lvl 60), Li Feilong (lvl 51), Li Feilong (lvl 51)
+
+119. Heaven's Killer 
+      Rate 3: Hillo (lvl 55)
+
+120. Royal Emblem
+      Rate 3: Slime King (lvl 78), Bayard (lvl 100)
+
+121. X-Frame 
+      Rate 3: Restoll (lvl 51, 60), Lara (lvl 100)
+
+122. Rusty Bracelet
+      Rate 3: Golden Doll (lvl 99), Siegfried (lvl 100), Vermillion (lvl 100)
+
+123. Aegis 
+      Rate 1: Nell (lvl 100), Meu (lvl 100)
+
+124. Holy Guard
+      Rate 1: Treasure Box (lvl 1)
+      Rate 3: Double X (lvl 100)
+
+125. Master Emblem 
+      Rate 3: Cassius (lvl 100)
+
+126. Crystal Bracelet
+      Rate 1: Cuo (lvl 100), Nagi (lvl 100), Hans (lvl 100)
+
+127. Dragon Frame
+      Rate 1: Vanilla (lvl 100), Levi (lvl 100)
+
+128. Demon Frame 
+      Rate 1: Himika (lvl 100), Mick (lvl 100)
+
+129. Matrix
+      Rate 1: Ankrauser (lvl 100)
+      Rate 3: Shadow (lvl 100)
+
+130. Lightning Guard 
+      Rate 1: Iglaine (lvl 100)
+      Rate 3: Weiz (lvl 100)
+
+131. Hiyoko Charm
+      Rate 1: Shiro (lvl 100)
+
+132. Feather Ring
+      Rate 1: Wooden Box (lvl 1), Smenik (lvl 38), Barzack (lvl 38), 
+              Treasure Box (lvl 1)
+      Rate 3: Umbra (lvl 25), Neverland Captain (lvl 27)
+
+133. Skanda Talisman 
+      Rate 1: Barrel (lvl 1), Treasure Box (lvl 1)
+
+134. Power Ring
+      Rate 1: Holy Soldier (lvl 38)
+      Rate 3: Neverland Captain (lvl 13), Simba Captain (lvl 12, 27), 
+              Morgan (lvl 18), Nicks (lvl 31)
+
+135. Vitality Ring 
+      Rate 1: Rock (lvl 1)
+      Rate 3: Neverland Captain (lvl 12), Neverland Soldier (lvl 15)
+
+136. Speed Ring
+      Rate 1: Barrel (lvl 1)
+      Rate 3: Neverland Captain (lvl 13), Simba Captain (lvl 14), 
+              Neverland Soldier (lvl 15)
+
+137. Wisdom Ring 
+      Rate 3: Simba Captain (lvl 13), Neverland Soldier (lvl 17), 
+              Neverland Soldier (lvl 17)
+
+138. Luck Ring 
+      Rate 3: Neverland Soldier (lvl 15), Simba Captain (lvl 27)
+
+139. Wind Ring 
+      Rate 3: Dryad (lvl 32)
+
+140. Hawkeye 
+      Rate 3: Reynolds (lvl 30), Purple (lvl 51, 54, 55)
+
+141. Dragon Ring 
+      Rate 3: Neverland Soldier (lvl 33)
+
+142. Ogre Ring 
+      Rate 3: Neverland Soldier (lvl 33)
+
+143. Samson's Ring 
+      Rate 1: Crystal (lvl 1)
+      Rate 3: Crystal (lvl 1), Lawrence (lvl 29)
+
+144. Stone Ring
+      Rate 3: Purple (lvl 30)
+
+145. Angel Wing
+      Rate 1: Siren (lvl 50)
+      Rate 3: Violet (lvl 30)
+
+146. Hercules' Ring
+      Rate 3: Souen (lvl 34), Souen (lvl 34)
+
+147. Fortitude Ring
+      Rate 3: Macblitz (lvl 40)
+
+148. Hurricane Ring
+      Rate 3: Jekyll (lvl 35), Sancho (lvl 35), Gaston (lvl 52)
+
+149. Sage Ring 
+      Rate 3: Black Magician (lvl 71), Byron (lvl 37)
+
+150. Aura Ring 
+      Rate 3: Lawrence (lvl 45)
+
+151. Hermes' Ring
+      Rate 3: Guenevere (lvl 52)
+
+152. Protection Ring 
+      Rate 3: Violet (lvl 51, 54, 55)
+
+153. Epsilon Ring
+      Rate 1: Trevor (lvl 100), Yaku Mu (lvl 100)
+      Rate 3: Bazgel (lvl 100)
+
+154. Sylph's Tear
+      Rate 1: Leila (lvl 100)
+      Rate 3: Gaston (lvl 100)
+
+155. Rust Ring 
+      Rate 1: Wage (lvl 100)
+      Rate 3: White Arc (lvl 95), Lindstrom (lvl 100), Vermillion (lvl 100)
+
+156. Mighty Ring 
+      Rate 1: Klause (lvl 100), Garnet (lvl 100), Jed (lvl 100)
+      Rate 3: Shadow (lvl 60)
+
+157. Floating Stone
+      Rate 1: Naiz (lvl 100), Kurt (lvl 100), Ciel (lvl 100), Tal (lvl 100)
+      Rate 3: Satanaiel (lvl 100)
+
+158. Blue Water
+      Rate 1: Hillo (lvl 100), Roze (lvl 100)
+      Rate 3: Janus (lvl 100)
+
+159. Hiyoko Egg
+      Rate 3: Ambrosia (lvl 100)
+
+160. Suzaku Ring 
+      Rate 3: Dark Hillo (lvl 100)
+
+161. Potent Grass
+      Rate 1: Neverland Soldier (lvl 44), Holy Soldier (lvl 41), 
+              Wooden Box (lvl 1), Rock (lvl 1)
+
+162. Pure Herb 
+      Rate 1: Wooden Box (lvl 1), Barrel (lvl 1), Wooden Box (lvl 1)
+      Rate 3: Neverland Soldier (lvl 44), Holy Soldier (lvl 41)
+
+163. Life Vessel 
+      Rate 1: Tree (lvl 1)
+      Rate 3: Holy Soldier (lvl 40), Holy Soldier (lvl 40)
+
+164. Scarab
+      Rate 1: Door (lvl 1), Holy Soldier (lvl 43), Barrel (lvl 1), 
+              Wooden Box (lvl 1)
+      Rate 2: Barrel (lvl 1), Barrel (lvl 1), Rock (lvl 1)
+      Rate 3: Fitishia Soldier (lvl 15, 16), Simba Soldier (lvl 21, 22)
+
+165. Sagestone 
+      Rate x: Lots of enemies.
+
+166. STR Up
+      Rate 1: Wooden Box (lvl 1), Treasure Box (lvl 1)
+
+167. VIT Up
+      Rate 1: Wooden Box (lvl 1)
+
+168. AGL Up
+      Rate 1: Jekyll (lvl 56)
+
+169. INT Up
+      Rate 1: Lara (lvl 56), Treasure Box (lvl 1)
+
+170. Max HP Up 
+      Rate 1: Wooden Box (lvl 1), Rock (lvl 1), Treasure Box (lvl 1)
+      Rate 3: Strong Draconia (lvl 100)
+
+171. Hiyoko Claw 
+      Rate 1: Hiyoko (lvl 1), Hell's Crest (lvl 11), Hiyoko (lvl 1)
+
+172. Hiyoko Crest
+      Rate 3: Hell's Crest (lvl 11)
+
+173. Poison Claw 
+      Rate 1: Poison Bug (lvl 25), Poison Bug (lvl 25), Poison Bug (lvl 25)
+      Rate 3: Poison Bug (lvl 26)
+
+174. Steel Claw
+      Rate 3: Steel Bug (lvl 46), Wooden Box (lvl 1), Barrel (lvl 1)
+
+175. Beast Claw
+      Rate 1: Dogman (lvl 2), Werewolf (lvl 7), Werewolf (lvl 10, 16), 
+              Deadwolf (lvl 20)
+
+176. Beast Bone
+      Rate 3: Dogman (lvl 2), Werewolf (lvl 16), 
+              Werewolf (lvl 16)
+
+177. Beast Charm 
+      Rate 3: Deadwolf (lvl 20)
+
+178. Beast Talisman
+      Rate 1: Dead Wolf (lvl 27), Werewolf King (lvl 55, 57, 64), Rock (lvl 1)
+      Rate 3: Deadwolf (lvl 31)
+
+179. Pelt
+      Rate 1: Barrel (lvl 1), Deadwolf (lvl 31)
+      Rate 3: Werewolf (lvl 7), Dead Wolf (lvl 27)
+
+180. Fine Pelt 
+      Rate 3: Werewolf King (lvl 55, 57, 64)
+
+181. Poison Needle 
+      Rate 1: Killer Bee (lvl 3), Big Ripper (lvl 16, 18)
+
+182. Honey 
+      Rate 2: Barrel (lvl 1), Wooden Box (lvl 1), Rock (lvl 1)
+      Rate 3: Killer Bee (lvl 3), Big Ripper (lvl 16, 18)
+
+183. Royal Jelly 
+      Rate 1: Tree (lvl 1), Barrel (lvl 1), Wooden Box (lvl 1)
+      Rate 3: Army Bee (lvl 30, 33), Death Bee (lvl 48, 55)
+      Rate 4: Wooden Box (lvl 1)
+
+184. Venom Needle
+      Rate 1: Army Bee (lvl 33), Army Bee (lvl 30), Army Bee (lvl 30)
+
+185. Death Needle
+      Rate 1: Death Bee (lvl 48), Death Bee (lvl 55)
+      Rate 4: Wooden Box (lvl 1), Wooden Box (lvl 1), Barrel (lvl 1)
+
+186. Spirit Charm
+      Rate 1: Evil Spirit (lvl 11)
+      Rate 3: Wraith (lvl 21)
+
+187. Spirit Trinket
+      Rate 1: Grim Reaper (lvl 55, 59)
+      Rate 3: Death (lvl 31, 32, 34)
+
+188. Repelling Seal
+      Rate 1: Evil Spirit (lvl 9), Wraith (lvl 21, 26, 27, 29)
+              Sancho (lvl 30), Death (lvl 31, 32)
+      Rate 2: Treasure Box (lvl 1)
+
+189. Sealed Soul 
+      Rate 1: Death (lvl 34), Siegfried (lvl 30)
+      Rate 2: Barrel (lvl 1), Wooden Box (lvl 1), Rock (lvl 1)
+      Rate 3: Wraith (lvl 26, 27, 29)
+      Rate 4: Death (lvl 32)
+
+190. Cursed Soul 
+      Rate 1: Durahan (lvl 55)
+      Rate 3: Grim Reaper (lvl 55, 59)
+
+191. Pollen
+      Rate 1: Hanabo (lvl 6), Mandragora (lvl 21)
+              Mandragora (lvl 20, 25)
+
+192. Nectar
+      Rate 2: Mandragora (lvl 21, 25), Barrel (lvl 1), Rock (lvl 1)
+      Rate 3: Hanabo (lvl 6)
+
+193. Ivy Charm 
+      Rate 3: Mandragora (lvl 20)
+
+194. Ivy Talisman
+      Rate 1: Malphasia (lvl 56), Rock (lvl 1)
+      Rate 3: Kodama (lvl 30, 31), Tree (lvl 1), Barrel (lvl 1), 
+              Wooden Box (lvl 1), Rock (lvl 1)
+
+195. Poison Pollen 
+      Rate 2: Mandragora (lvl 20), Wooden Box (lvl 1), Barrel (lvl 1)
+      Rate 3: Mandragora (lvl 21, 25)
+
+196. Paralyze Pollen 
+      Rate 1: Kodama (lvl 30, 31)
+      Rate 2: Wooden Box (lvl 1), Barrel (lvl 1)
+
+197. Death Pollen
+      Rate 1: Wooden Box (lvl 1), Treasure Box (lvl 1)
+      Rate 3: Malphasia (lvl 56)
+
+198. Imp Horn
+      Rate 1: Imp (lvl 39), Gremlin (lvl 13)
+      Rate 2: Barrel (lvl 1), Wooden Box (lvl 1)
+      Rate 3: Gremlin (lvl 14)
+
+199. Demon Charm 
+      Rate 1: Imp (lvl 30)
+
+200. Demon Talisman
+      Rate 1: Lesser Devil (lvl 28), Barrel (lvl 1), Wooden Box (lvl 1)
+      Rate 3: Imp (lvl 39), Gargoyle (lvl 54, 56), Smenik (lvl 38), 
+      Rate 4: Barrel (lvl 1), Wooden Box (lvl 1)
+
+201. Demon Horn
+      Rate 1: Greater Devil (lvl 74)
+      Rate 3: Lesser Devil (lvl 28)
+
+202. Slimy Jelly 
+      Rate 1: Slime (lvl 12, 13), Blue Slime (lvl 17, 21, 23), 
+              Red Slime (lvl 31, 33), Green Slime (lvl 37, 43), 
+              Red Slime (lvl 26), Green Slime (lvl 37), Barrel (lvl 1), 
+              Wooden Box (lvl 1)
+
+203. Solution
+      Rate 1: Yellow Slime (lvl 63)
+      Rate 3: Red Slime (lvl 26, 31, 33), Green Slime (lvl 37, 43)
+
+204. Slimy Core
+      Rate 1: Slime King (lvl 78), Kaiser Slime (lvl 93)
+      Rate 3: Yellow Slime (lvl 63)
+
+205. Crab Claw 
+      Rate 1: Pincer (lvl 15, 16), Big Crab (lvl 30)
+      Rate 2: Wooden Box (lvl 1), Rock (lvl 1)
+
+206. Crab Meat 
+      Rate 1: Death Crab (lvl 75), Reynolds (lvl 30), Treasure Box (lvl 1), 
+              Wooden Box (lvl 1), Rock (lvl 1)
+
+      Rate 2: Wooden Box (lvl 1)
+      Rate 3: Big Crab (lvl 40), Crustacean (lvl 55)
+
+207. Crab Shell
+      Rate 1: Big Crab (lvl 40), Crustacean (lvl 55)
+      Rate 3: Big Crab (lvl 30), Wooden Box (lvl 1)
+
+208. Contract
+      Rate 1: Familiar (lvl 20, 22, 27)
+
+209. Crystal Cluster 
+      Rate 1: Rock (lvl 1), Schwartz (lvl 30)
+      Rate 3: Big Eye (lvl 37, 45, 55), Barrel (lvl 1)
+
+210. Evil Eye
+      Rate 3: Devil's Eye (lvl 65)
+
+211. Lizard Tail 
+      Rate 1: Lizard Man (lvl 44), Big Lizard (lvl 16), Treasure Box (lvl 1)
+      Rate 3: Big Lizard (lvl 19)
+
+212. Basilisk Eye
+      Rate 1: Basilisk (lvl 59), Lizard King (lvl 79), Wooden Box (lvl 1)
+      Rate 2: Wooden Box (lvl 1), Treasure Box (lvl 1), Rock (lvl 1)
+      Rate 3: Lizard Man (lvl 44), Basilisk (lvl 57)
+
+213. Lizard Scale
+      Rate 3: Basilisk (lvl 59), Lizard King (lvl 79)
+
+214. Bat Fang
+      Rate 1: Bat (lvl 15, 17), Lesser Bat (lvl 31, 37, 42), 
+              Wooden Box (lvl 1)
+
+215. Bat Wing
+      Rate 1: Barrel (lvl 1), Wooden Box (lvl 1), Rock (lvl 1)
+      Rate 2: Wooden Box (lvl 1)
+      Rate 3: Bat (lvl 17), Bat (lvl 15)
+
+216. Wing Talisman 
+      Rate 1: Golden Bat (lvl 72)
+      Rate 3: Lesser Bat (lvl 31, 37, 42), Killer Bat (lvl 55, 57), 
+              Rock (lvl 1)
+
+217. Heart Stone 
+      Rate 1: Earth Lord (lvl 20, 21), Security Guard (lvl 22)
+      Rate 3: Iron Lord (lvl 55)
+
+218. Crystal 
+      Rate 1: Crystal (lvl 1)
+      Rate 3: Crystal Lord (lvl 90)
+
+219. Power Stone 
+      Rate 1: Iron Lord (lvl 50, 56), Titan (lvl 41), Wooden Box (lvl 1), 
+              Barrel (lvl 1), Treasure Box (lvl 1)
+
+      Rate 3: Earth Lord (lvl 20), Security Guard (lvl 22), 
+              Treasure Box (lvl 1), Wooden Box (lvl 1), Rock (lvl 1)
+
+220. Rune Stone
+      Rate 1: Crystal Lord (lvl 90), Wooden Box (lvl 1)
+      Rate 3: Iron Lord (lvl 50, 56), Barzack (lvl 38)
+
+221. Bandage 
+      Rate 1: Mirra (lvl 25, 26, 30), Mummy (lvl 55), Wooden Box (lvl 1), 
+              Barrel (lvl 1)
+
+222. Dead Crown
+      Rate 1: Master Mummy (lvl 65)
+      Rate 3: Mummy (lvl 55)
+
+223. Dark Heart
+      Rate 1: Great Mummy (lvl 90)
+      Rate 3: Master Mummy (lvl 65)
+
+224. Bone
+      Rate 1: Skeleton (lvl 25, 27, 28), Skeleton Soldier (lvl 53), 
+      Rate 2: Wooden Box (lvl 1), Wooden Box (lvl 1), Barrel (lvl 1)
+      Rate 3: Skeleton (lvl 28)
+
+225. Rib 
+      Rate 1: Skeleton Warrior (lvl 67)
+      Rate 3: Skeleton Soldier (lvl 53), Soldier Skeleton (lvl 57)
+      Rate 4: Wooden Box (lvl 1)
+
+226. Skull 
+      Rate 1: Skeleton Master (lvl 82)
+      Rate 3: Skeleton Warrior (lvl 67)
+
+227. Fire Dragon Bag 
+      Rate 2: White Arc (lvl 95)
+      Rate 3: Red Dragon (lvl 80)
+      Rate 4: Green Dragon (lvl 76)
+
+228. Dragon Charm
+      Rate 1: Dragon (lvl 40)
+      Rate 2: Dragon (lvl 40, 70)
+
+229. Dragon Talisman 
+      Rate 2: Red Dragon (lvl 80)
+      Rate 3: Green Dragon (lvl 76), Rock (lvl 1)
+
+230. Dragon Talon
+      Rate 1: Dark Dragon (lvl 90), White Arc (lvl 95), Treasure Box (lvl 1)
+      Rate 3: Dragon (lvl 70), Dragon (lvl 40), Barzack (lvl 39), 
+              Smenik (lvl 39), Dragon (lvl 40)
+
+231. Dragon Fang 
+      Rate 2: Green Dragon (lvl 76), Dark Dragon (lvl 90)
+      Rate 3: Barrel (lvl 1)
+      Rate 4: Dragon (lvl 70)
+
+232. Angel Feather 
+      Rate 1: Cockatrice (lvl 35)
+      Rate 3: Angel Knight (lvl 84)
+
+233. Devil Feather 
+      Rate 3: Dark Angel (lvl 94)
+
+234. Radiation 
+      Rate 3: Clione (lvl 50)
+
+235. Cockatrice Down 
+      Rate 3: Cockatrice (lvl 35)
+
+236. Siren Wing
+      Rate 3: Siren (lvl 50)
+
+237. Demonic Emblem
+      Rate 3: Durahan (lvl 55)
+
+238. Earth's Rumble
+      Rate 3: Titan (lvl 41)
+
+239. Undead Coffin 
+      Rate 3: Vampire (lvl 40)
+
+240. Icicle
+      Rate 3: Yeti (lvl 45)
+
+241. Dragon Gem
+      Rate 3: Dragon Zombie (lvl 50)
+
+242. Demon's Edge
+      Rate 3: Cursed Sword (lvl 95)
+
+243. Dragon Gjord
+      Rate 3: Draconia (lvl 95)
+
+244. Dragon Heart
+      Rate 3: Strong Draconia (lvl 96)
+
+245. Demon's Hilt
+      Rate 3: Rune Blade (lvl 97)
+
+246. Forbidden Fruit 
+      Rate 3: Ambrosia (lvl 96)
+
+247. Exodus
+      Rate 3: Satanaiel (lvl 98)
+
+248. Dragon Eye
+      Rate 3: Double X (lvl 100)
+
+249. Four Elements 
+      Rate 3: Vermillion (lvl 99)
+
+250. East Wind Invite
+      Rate 3: Vermillion (lvl 98)
+
+251. West Wind Invite
+      Rate 3: Vermillion (lvl 98)
+
+252. Emptiness 
+      Rate 3: Nothing (lvl 1)
+
+253. Skill Lesson
+      Rate 1: Hillo (lvl 19), Neverland Captain (lvl 12, 13),
+              Simba Captain (lvl 12, 13, 14), Edison (lvl 17), Zaha (lvl 18), 
+              Gazanka (lvl 16), Edison (lvl 17), Zaha (lvl 18), 
+              Gobskin (lvl 19), Marcus (lvl 19), Morgan (lvl 18), 
+              Treasure Box (lvl 1), 
+
+      Rate 3: Bread Doll (lvl 35), Fitishia Captain (lvl 10, 16, 17), 
+              Neverland Captain (lvl 14), Bublin (lvl 18), 
+              Barrel (lvl 1)
+
+      Rate 4: Barrel (lvl 1), Rock (lvl 1), Wooden Box (lvl 1), 
+
+254. Skill Book
+      Rate 1: Orban (lvl 20), Gail (lvl 20), Leila (lvl 20), 
+              Bazgel (lvl 20), Vampus (lvl 21), Oberon (lvl 22), 
+              Amadeus (lvl 23), Siegfried (lvl 25), Geoff IV (lvl 25), 
+              Laemellan (lvl 24), Li Feilong (lvl 23), Anderson (lvl 25), 
+              Umbra (lvl 25), Neverland Captain (lvl 27), Miguel (lvl 28), 
+              Jed (lvl 30), Lawrence (lvl 29), Simba Captain (lvl 27, 28, 33), 
+              Restoll (lvl 30), Seyzer (lvl 30), Li Feilong (lvl 30), 
+              Sakks (lvl 31), Richmond (lvl 32), Rodimus (lvl 33), 
+              Cadis (lvl 34), Nicks (lvl 31), Barrock (lvl 36), Byron (lvl 37), 
+              Holy Captain (lvl 36, 37), Nessus (lvl 36), Homini (lvl 37), 
+              Logul (lvl 38), Odmak (lvl 37), Treasure Box (lvl 1), 
+
+      Rate 3: Clear Doll (lvl 70), Marcus (lvl 19), Restoll (lvl 25), 
+              Gail (lvl 25), Anderson (lvl 25), Reynolds (lvl 30), 
+              Simba Captain (lvl 26), Vough (lvl 30), Wooden Box (lvl 1), 
+              Siegfried (lvl 34), Bread Doll (lvl 35), Goblin Road (lvl 25), 
+              Treasure Box (lvl 1), 
+
+255. Skill Mastery 
+      Rate 1: Golden Doll (lvl 99), Bayard (lvl 35), Souen (lvl 34), 
+              Ankrauser (lvl 35), Gail (lvl 35), Lawrence (lvl 35, 45), 
+              Schwartz (lvl 35), Sancho (lvl 35), Violet (lvl 35, 44), 
+              Purple (lvl 35, 44), Macblitz (lvl 40), Davu (lvl 40), 
+              Dragen (lvl 40, 47), Barzack (lvl 39), Smenik (lvl 39), 
+              Anderson (lvl 40, 45), Odmak (lvl 39), Kilos (lvl 40), 
+              Holy Captain (lvl 41, 43), Klause (lvl 45), Wage (lvl 45), 
+              Li Feilong (lvl 45), Jekyll (lvl 49), Lara (lvl 49), 
+              Guenevere (lvl 50), Lindstrom (lvl 50), Valsung (lvl 50), 
+              Treasure Box (lvl 1), 
+
+      Rate 3: Holy Captain (lvl 44), Cassius (lvl 55), Kreutz (lvl 53, 54), 
+              Schwartz (lvl 54, 55)
+
+256. God Tree Branch 
+      Rate 1: Tree (lvl 1), Treasure Box (lvl 1), 
+      Rate 3: Treasure Box (lvl 1)
+
+257. Unicorn Horn
+      Rate 1: Tree (lvl 1), Rock (lvl 1), Treasure Box (lvl 1)
+      Rate 3: Wooden Box (lvl 1), Rock (lvl 1)
+
+258. Damascus
+      Rate 1: Rock (lvl 1)
+      Rate 2: Rock (lvl 1)
+      Rate 3: Rock (lvl 1), Barrel (lvl 1), Wooden Box (lvl 1)
+
+259. Meteoric Iron 
+      Rate 1: Rock (lvl 1)
+      Rate 3: Rune Blade (lvl 100)
+
+260. Memory of Light 
+      Rate 3: Anderson (lvl 100)
+
+261. Geometry
+      Rate 3: Violet (lvl 100)
+
+262. Chronos 
+      Rate 3: Purple (lvl 100)
+
+263. Devil's Idol
+      Rate 3: Schwartz (lvl 100)
+
+264. Sacrifice 
+      Rate 3: Restoll (lvl 100)
+
+265. Moon Fragment 
+      Rate 1: Wooden Box (lvl 1), Rock (lvl 1)
+      Rate 3: Barrel (lvl 1), Wooden Box (lvl 1), Rock (lvl 1)
+      Rate 4: Red Magician (lvl 36)
+
+266. Cat's Eye Stone 
+      Rate 1: Rock (lvl 1), Wooden Box (lvl 1)
+      Rate 3: Treasure Box (lvl 1), Wooden Box (lvl 1), Barrel (lvl 1)
+      Rate 4: Rock (lvl 1)
+
+267. Magic Core
+      Rate 3: Sancho (lvl 100)
+
+-------------------------------------------------------------------------------
+
+This document is (c) Copyright 2007 Travis Swift (swift412).
+Spectral Souls is (c) Copyright 2006 Idea Factory.
+All rights reserved.
+
+-------------------------------------------------------------------------------

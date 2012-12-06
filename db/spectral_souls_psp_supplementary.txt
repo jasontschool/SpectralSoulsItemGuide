@@ -1,0 +1,1015 @@
+-------------------------------------------------------------------------------
+
+             Spectral Souls ~Resurrection of the Ethereal Empires~
+
+                       S U P P L E M E N T A R Y   F A Q
+
+                               Author: swift412
+                           Email: swift412@gmail.com
+                                 Version: 1.30
+                   Last updated: 2007/06/02, 16:41 GMT+0200
+
+-------------------------------------------------------------------------------
+
+INDEX
+
+ A. Battle Point Drops
+ B. Otherworld Gate Drops
+ C. Otherworld Gate Enemy List
+ D. Capturable Monsters & Skills
+ E. Registarable Weapons
+ F. Best Weapons per Class
+ G. Character Potentials
+ H. Potential Descriptions
+
+-------------------------------------------------------------------------------
+
+    PREFACE
+
+    This is a supplementary FAQ, to be used in conjunction with DB27's General
+    Walkthrough, and my two other FAQS (Item Creation and Masteries List, and
+    Weapon/Armour/Ring data sheets).
+
+ A. BATTLE POINT DROPS
+
+    I have no idea what the chances of these items appearing are, if they will
+    appear, or the chance of getting and indiviual item are. Neither do I know
+    what the chance of the rare monsters appearing.
+
+    1. SIMBA BATTLE POINTS
+    1.1. EMPIRE BATTLE POINT 1 - Golden Area
+         1/3 Barrel : Life Fragment, Nectar, Lance, Skill Lesson
+         2/3 Rock : Thunder Element, Wind Element, Silver Crystal, Sagestone 
+         3/3 Tree : God Tree Branch
+         Rare monster: Bread Doll
+
+    1.2. EMPIRE BATTLE POINT 2 - Galena Area
+         1/3 Barrel : Bat Wing, Honey, Sagestone, Skill Lesson
+         2/3 Wooden Box : Potent Grass, Crab Claw, Unicorn Horn
+         3/3 Wooden Box : Pure Herb, Poison Pollen, Adakh
+         Rare monster: Bread Doll
+
+    1.3. EMPIRE BATTLE POINT 3 - Galena Area
+         1/3 Rock : Fire Cluster, Ice Cluster, Sagestone
+         2/3 Barrel : Scarab, Imp Horn, Golden Bracelet
+         3/3 Barrel : Life Fragment, Sealed Soul, Moon Fragment
+         Rare monster: Bread Doll
+
+    1.4. EMPIRE BATTLE POINT 4 - Elegistat Area
+         1/3 Tree : God Tree Branch, Ivy Talisman
+         2/3 Treasure Box : Mythril Cluster, Skill Book
+         3/3 Wooden Box : Bandage, Bone, Jade Bracelet
+         Rare monster: Clear Doll (Capture skill: Gold Rush)
+
+    1.5. EMPIRE BATTLE POINT 5 - Eikus Area
+         1/3 Barrel : Life Fragment, Scarab, Ivy Talisman
+         2/3 Rock : Wind Cluster, Earth Cluster, Sagestone
+         3/3 Treasure Box : Holy Cluster, Orichal Cluster, Cat's Eye Stone
+         Rare monster: Clear Doll (Capture skill: Gold Rush)
+
+    1.6. EMPIRE BATTLE POINT 6 - Former Simba Territory
+         1/3 Rock : Thunder Cluster, Dark Cluster, Damascus
+         2/3 Wooden Box : Royal Jelly, Paralyze Pollen, 
+                          Steel Claw, Death Needle
+         3/3 Treasure Box : Crab Meat, Basilisk Eye, Power Stone
+         Rare monster: Yeti (Capture skill: Avalanche, Drops: Big Icicle)
+
+
+    2. NEVERLAND BATTLE POINTS
+    2.1. IMPERIAL BATTLE POINT 1 - Golden Area
+         1/3 Rock : Life Fragment, Nectar, Sagestone, Skill Lesson
+         2/3 Wooden Box : Thunder Element, Wind Element, Baselard, Sagestone 
+         3/3 Treasure Box : Lizard Tail, Repelling Seal, God Tree Branch
+         Rare monster: Bread Doll
+
+    2.2. IMPERIAL BATTLE POINT 2 - Galena Area
+         1/3 Wooden Box : Bat Wing, Honey, Sagestone, Skill Lesson
+         2/3 Rock : Potent Grass, Crab Claw, Unicorn Horn, Broadsword
+         3/3 Rock : Fire Cluster, Ice Cluster, Sagestone
+         Rare monster: Bread Doll
+
+    2.3. IMPERIAL BATTLE POINT 3 - Prati Selbi Area 
+                                   (aka "Empire Battle Point 3" (Typo))
+         1/3 Barrel : Pure Herb, Poison Pollen, Iron Claw
+         2/3 Wooden Box : Scarab, Imp Horn, Golden Bracelet
+         3/3 Wooden Box : Life Fragment, Sealed Soul, Moon Fragment
+         Rare monster: Bread Doll
+
+         2.4. IMPERIAL BATTLE POINT 4 - Zapatos
+         1/3 Barrel : Slimy Jelly, Ivy Talisman, Demon Talisman
+         2/3 Wooden Box : Mythril Cluster, Skill Book
+         3/3 Wooden Box : Bandage, Bone, Jade Bracelet
+         Rare monster: Clear Doll (Capture skill: Gold rush)
+
+         2.5. IMPERIAL BATTLE POINT 5 - De Argo Area
+         1/3 Barrel : Life Fragment, Scarab, Ivy Talisman
+         2/3 Barrel : Wind Cluster, Earth Cluster, Sagestone
+         3/3 Wooden Box : Holy Cluster, Orichal Cluster, Cat's Eye Stone
+         Rare monster: Cockatrice (Capture skill: Paralytic Breath, Drops: 
+                                   Cockatrice Feather, Angel Wing (Rare))
+
+    2.6. IMPERIAL BATTLE POINT 6 - Former Simba Territory
+         1/3 Barrel : Thunder Cluster, Dark Cluster, Damascus
+         2/3 Wooden Box : Royal Jelly, Paralyze Pollen, 
+                          Steel Claw, Death Needle
+         3/3 Wooden Box : Crab Meat, Basilisk Eye, Power Stone
+         Rare monster: Vampire (Capture skill: Vampiric Drain, 
+                                Drops: Undead Coffin)
+
+
+    3. ROZESS BATTLE POINTS
+    3.1. LIBERATION BATTLE POINT 1 - Logion Area
+         1/3 Rock   : Bat Wing, Honey, Sagestone, Skill Lesson
+         2/3 Wooden Box : Potent Grass, Crab Claw, Unicorn Horn, Broadsword
+         3/3 Rock   : Fire Cluster, Ice Cluster, Sagestone
+         Rare monster: Bread Doll
+
+    3.2. LIBERATION BATTLE POINT 2 - Paraus Nui Area
+         1/3 Wooden Box : Pure Herb, Poison Pollen, Iron Claw
+         2/3 Barrel : Scarab, Imp Horn, Golden Bracelet
+         3/3 Rock   : Life Fragment, Sealed Soul, Moon Fragment
+         Rare monster: Bread Doll
+
+    3.3. LIBERATION BATTLE POINT 3 - Elegistat Area
+         1/3 Wooden Box : Slimy Jelly, Ivy Talisman, Demon Talisman
+         2/3 Wooden Box : Mythril Cluster, Skill Book
+         3/3 Barrel : Bandage, Bone, Jade Bracelet
+         Rare monster: Clear Doll (Capture skill: Gold rush)
+
+    3.4. LIBERATION BATTLE POINT 4 - Beminad Area
+         1/3 Rock : Life Fragment, Scarab, Ivy Talisman
+         2/3 Rock : Wind Cluster, Earth Cluster, Sagestone
+         3/3 Barrel : Dark Cluster, Orichal Cluster, Cat's Eye Stone
+         Rare monster: Titan (Capture skill: Gaia Crush, Drops: Earth's Rumble)
+
+    3.5. LIBERATION BATTLE POINT 5 - Former Simba Territory
+         1/3 Wooden Box : Thunder Cluster, Dark Cluster, Damascus
+         2/3 Barrel : Royal Jelly, Paralyze Pollen, Steel Claw, Death Needle
+         3/3 Rock : Crab Meat, Basilisk Eye, Power Stone
+         Rare monster: Dragon (Capture skill: Rotting Breath, 
+                               Drops: Dragon Jewel)
+
+ B. OTHERWORLD GATE DROPS
+    
+    Again, I have no idea what the chances of the treasure boxes appearing is.
+
+    Level  3 : Skill Lesson, Sagestone
+    Level  6 : Skill Lesson, Sagestone
+    Level  9 : Skill Lesson, Sagestone, Katar
+    Level 12 : Skill Book, Sagestone, Gladius
+    Level 15 : Skill Book, Sagestone, Partisan, Javelin 
+    Level 18 : Skill Mastery, Sagestone
+    Level 21 : Skill Mastery, Sagestone
+    Level 24 : nothing (???)
+    Level 27 : Skill Mastery, Sagestone
+    Level 30 : Skill Mastery, Sagestone
+    Level 33 : Skill Mastery, Sagestone
+    Level 36 : Skill Mastery, Sagestone
+    Level 39 : Skill Mastery, Sagestone
+    Level 42 : Skill Mastery, Sagestone
+    Level 45 : Skill Mastery, Sagestone
+    Level 48 : Skill Mastery, Sagestone
+
+ C. OTHERWORLD GATE ENEMY LIST
+
+    Most of the enemy encounters are random and NOT fixed. Beware on levels
+    that are multiple of 3, as they often have a new stronger enemy. Also, 
+    be prepared for the battle against Magicians, Slimes and Dragons the
+    first time you face them. 
+
+     1. 2x Hiyoko (lvl 1)
+        2x Dogman (lvl 2)
+        2x Killer Bee (lvl 3)
+
+     2. 3x Hiyoko (lvl 1)
+        3x Killer Bee (lvl 3)
+        1x Hanabo (lvl 6)
+
+     3. 3x Killer Bee (lvl 3)
+        3x Hanabo (lvl 6)
+        1x Hell's Crest (lvl 11)
+
+     4. 3x Werewolf (lvl 7)
+        3x Evil Spirit (lvl 9)
+        2x Gremlin (lvl 14)
+
+     5. 3x Evil Spirit (lvl 9)
+        4x Gremlin (lvl 14)
+        2x Pincer (lvl 15)
+
+     6. 3x Gremlin (lvl 14)
+        4x Pincer (lvl 15)
+        1x Mandragora (lvl 21)
+
+     7. 6x Magician (lvl 11)
+        2x Big Lizard (lvl 19)
+        4x Familiar (lvl 20)
+
+     8. 3x Big Lizard (lvl 19)
+        3x Familiar (lvl 20)
+        4x Earth Lord (lvl 20)
+
+     9. 4x Magician (lvl 11)
+        4x Warlock (lvl 22)
+        1x Wraith (lvl 29)
+
+    10. 4x Warlock (lvl 22)
+        5x Skeleton (lvl 28)
+        5x Mummy (lvl 30)
+
+    11. 5x Warlock (lvl 22)
+        4x Mummy (lvl 30)
+        2x Death (lvl 34)
+
+    12. 3x Dragon (lvl 40)
+
+    13. 3x Poison Bug (lvl 26)
+        3x Kodama (lvl 31)
+        4x Red Slime (lvl 33)
+
+    14. 4x Kodama (lvl 31)
+        3x Red Slime (lvl 33)
+        4x Death (lvl 34)
+
+    15. 3x Red Slime (lvl 33)
+        4x Blue Slime (lvl 23)
+        1x Red Magician (lvl 36)
+
+    16. 5x Imp (lvl 39)
+        4x Big Crab (lvl 40)
+        1x Lizard Man (lvl 44)
+
+    17. 4x Imp (lvl 39)
+        4x Lesser Bat (lvl 42)
+        4x Lizard Man (lvl 44)
+
+    18. 5x Lesser Bat (lvl 42)
+        4x Death Bee (lvl 48)
+
+    19. 6x Big Eye (lvl 45)
+        2x Iron Lord (lvl 50)
+
+    20. 3x Big Eye (lvl 45)
+        4x Steel Bug (lvl 46)
+        3x Magic Lord (lvl 47)
+
+    21. 5x Skeleton Soldier (lvl 45)
+
+    22. 3x Great Magician (lvl 51)
+        4x Gargoyle (lvl 54)
+        4x Crustacean (lvl 55)
+
+    23. 4x Gargoyle (lvl 54)
+        3x Crustacean (lvl 55)
+        3x Basilisk (lvl 59)
+
+    24. 1x Mad Spirit (lvl 60)
+
+    25. ?x Gargoyle? (lvl 54)
+        1x Greater Devil (lvl 74)
+
+ D. CAPTURABLE MONSTERS & SKILLS
+
+    Attacks 127 to 174 on the Reference list are monster skills. To obtain
+    them, you will need to lower the monster in questions HP down (to < 5%),
+    then use the skill "Capture" until the monster dies (from the skill 
+    Capture). You should then receive a Skill from the monster. Translated
+    from the list at:
+    http://souls2.nm.land.to/souls2/index.php
+
+     127. Fang Crush       - Hiyoko Bug, Hell's Crest
+                     03 AP - Damage
+
+     128. Poison Fang      - Poison Bug 
+                     06 AP - Damage & poison
+
+     129. Power Crush      - Mirra
+                     06 AP - Damage & burst (knock back)
+
+     130. Deadly Crush     - Steel Bug
+                     10 AP - Damage
+
+     131. Triple Blow      - Dogman
+                     03 AP - Damage
+
+     132. Hextuple Blow    - Werewolf
+                     06 AP - Damage
+
+     133. Chi Blast        - Dead Wolf
+                     09 AP - Damage
+
+     134. A Dozen Blows    - Werewolf King
+                     12 AP - Damage
+
+     135. Numbing Needle   - Killer Bee, Big Ripper
+                     06 AP - Damage & paralysis
+
+     136. Bee Sting        - Army Bee, Death Bee
+                     09 AP - Damage & instant death
+
+     137. Power Down       - Evil Spirit
+                     06 AP - STR down (no dmg)
+
+     138. Speed Down       - Wraith
+                     06 AP - AGI down (no dmg)
+
+     139. All Down         - Death
+                     12 AP - STR, VIT, AGI, INT, LUK down (no dmg)
+
+     140. Reaper's Scythe  - Grim Reaper
+                     12 AP - Damage & instant death
+
+     141. Pollen           - Hanabo
+                     06 AP - Sleep (no dmg)
+
+     142. Poison Powder    - Mandragora
+                     06 AP - Poison (no dmg)
+
+     143. Arresting Aroma  - Kodama
+                     09 AP - Paralysis (no dmg)
+
+     144. Death Weed       - Malphasia           
+                     12 AP - Instant death (no dmg)
+
+     145. Absorb           - all Slimes
+                     06 AP - Damage & absorb HP
+
+     146. Stomp            - King Slime, Kaiser Slime
+                     09 AP - Damage
+
+     147. Rust Bubble      - Pincer, Big Crab
+                     09 AP - Damage & Vit down
+
+     148. Acidic Bubble    - Crustacean, Death Crab
+                     09 AP - Damage & Str down
+
+     149. Evil Eye         - Familiar, Big Eye
+                     09 AP - Target paralyzed (no dmg)
+
+     150. Mysterious Ray   - Devil's Eye
+                     12 AP - Damage & paralysis
+
+     151. Supersonic Wave  - Bat, Lesser Bat, Killer Bat
+                     07 AP - Target paralyzed (no dmg)
+
+     152. Mysterious Wave  - Golden Bat
+                     12 AP - Damage & paralysis
+
+     153. Punch            - Earth Lord
+                     09 AP - Damage
+
+     154. Twirl            - Iron Lord
+                     12 AP - Damage
+
+     155. Beatdown         - Crystal Lord
+                     12 AP - Damage
+
+     156. Paralyzing Touch - Mummy, Master Mummy
+                     09 AP - Damage & paralysis
+
+     157. Cursed Touch     - Great Mummy
+                     12 AP - Damage & poison, paralysis, darkness
+
+     158. Earth Breath     - Dragon
+                     12 AP - Attack (Earth attribute)
+
+     159. Wind Breath      - Green Dragon
+                     12 AP - Attack (Wind attribute)
+
+     160. Fire Breath      - Red Dragon
+                     12 AP - Attack (Fire attribute)
+
+     161. Dark Breath      - Dark Dragon
+                     12 AP - Attack (Dark attribute)
+
+     162. Holy Breath      - White Arc
+                     12 AP - Attack (Holy attribute)
+
+     163. Angelic Voice    - Angel Knight
+                     15 AP - Damage & target AP regen rate decrease
+
+     164. Requiem          - Dark Angel
+                     15 AP - Damage & target AP regen rate decrease
+
+     165. Hell's Gaze      - Recruit Shiro (?)
+                     18 AP - Damage & instant death
+
+     166. Gold Rush        - All dolls
+                     12 AP - Steal target's rate item (no dmg)
+
+     167. Radiating Light  - Clione
+                     12 AP - Darkness (no dmg)
+
+     168. Paralytic Breath - Cockatrice
+                     12 AP - Damage & paralysis
+
+     169. Siren's Song     - Siren
+                     12 AP - Damage & immobilize
+
+     170. Decapitation     - Durahan
+                     08 AP - Damage
+
+     171. Gaia Crush       - Titan
+                     12 AP - Damage
+
+     172. Vampiric Drain   - Vampire
+                     12 AP - Damage & absorb HP
+
+     173. Avalanche        - Yeti
+                     12 AP - Damage
+
+     174. Rotting Breath   - Zombie Dragon
+                     12 AP - Damage & poison
+
+
+ E. REGISTARABLE WEAPONS
+
+    The G cost is the amount it costs to buy the weapon once registered, and 
+    the EP cost is the cost to augment the weapon from lvl 1 to lvl 5 to be
+    registered. All weapons sell for half the price they cost to buy.
+
+     SWORDS
+      Silver Sword....................       800G  / 120 EP
+      Rapier..........................       800G  / 120 EP
+      Sabre...........................      1200G  / 120 EP
+      Long Sword......................      2500G  / 120 EP
+      Platinum Sword..................      3000G  / 240 EP
+      Master Rapier...................      3000G  / 240 EP
+      Arc Blade.......................      4000G  / 240 EP
+      Feather Sabre...................      5000G  / 240 EP
+    
+     GREAT SWORDS
+      Viking Sword....................       610G  /  60 EP
+      Silver Blade....................       800G  / 120 EP
+      Claymore........................       800G  / 120 EP
+      Kora............................      1400G  / 120 EP
+      Zweihander......................      1800G  / 120 EP
+      Doublehand......................      2500G  / 120 EP
+      Platinum Blade..................      3000G  / 240 EP
+      Great Sword.....................      4000G  / 240 EP
+      Brunac..........................      6000G  / 240 EP
+    
+     SHORTSWORDS
+      Baselard........................       500G  /  60 EP
+      Silver Knife....................       800G  / 120 EP
+      Sword Breaker...................       800G  / 120 EP
+      Kris............................      1000G  / 120 EP
+      Rondel Dagger...................      1500G  / 120 EP
+      Platinum Knife..................      3000G  / 240 EP
+      Triple Dagger...................      3000G  / 240 EP
+      Katar...........................      5500G  / 240 EP
+      Gladius.........................      6000G  / 240 EP
+    
+     SPEARS
+      Lance...........................       500G  /  60 EP
+      Sarissa.........................       530G  /  60 EP
+      Silver Spear....................       800G  / 120 EP
+      Poleaxe.........................       800G  / 120 EP
+      Harpoon.........................      2450G  / 120 EP
+      Platinum Spear..................      3000G  / 240 EP
+      Halberd.........................      3000G  / 240 EP
+      Partisan........................      5500G  / 240 EP
+      Javelin.........................      6200G  / 240 EP
+    
+     STAVES
+      Silver Rod......................       800G  / 120 EP
+      Magician's Rod..................       800G  / 120 EP
+      Morning Star....................      2650G  / 120 EP
+      Platinum Rod....................      3000G  / 240 EP
+      Ruby Wand.......................      3000G  / 240 EP
+      Zen Cane........................      4200G  / 240 EP
+      Magic Blade.....................     50000G  / 240 EP
+      Crusher.........................     11100G  / 480 EP
+    
+     KNUCKLES
+      Silver Knuckle..................       800G  / 120 EP
+      Gold Finger.....................       800G  / 120 EP
+      Platinum Knuckle................      3000G  / 240 EP
+      Chained Knuckle.................      3000G  / 240 EP
+      Jamadhar........................      4440G  / 240 EP
+      Clutch Knuckle..................      6800G  / 240 EP
+    
+     BREAKERS
+      Silver Breaker..................       800G  / 120 EP
+      Target Lock.....................       800G  / 120 EP
+      Chakram.........................      1000G  / 120 EP
+      Platinum Breaker................      3000G  / 240 EP
+      V-Strata........................      3000G  / 240 EP
+    
+     GUNS
+      Silver Gun......................       800G  / 120 EP
+      Buster Gun......................      2680G  / 120 EP
+      Platinum Gun....................      3000G  / 240 EP
+    
+     SCYTHES
+      Soul Sucker.....................      3000G  / 240 EP
+    
+    
+    SHOP WEAPONS:
+     SWORDS
+      Iron Sword......................       200G
+      Fleuret.........................       200G
+      Short Sword.....................       500G
+      Spatha..........................       800G
+    
+     GREAT SWORDS
+      Iron Blade......................       200G
+      Falux...........................       200G
+      Falchion........................       400G
+    
+     SHORTSWORDS
+      Bastard Sword...................       600G
+      Iron Knife......................       200G
+      Shield Sword....................       200G
+      Butterfly Knife.................       400G
+      Mein Gauche.....................       500G
+      Khukuri.........................       600G
+    
+     SPEARS
+      Iron Spear......................       200G
+      Pike............................       200G
+      Pilum...........................       400G
+    
+     STAVES
+      Iron Rod........................       200G
+      Witch's Broom...................       200G
+      Mace............................       360G
+      Spiked Rod......................       500G
+      Holy Sprinkler..................       600G
+      Mystic..........................       700G
+    
+     KNUCKLES
+      Iron Knuckle....................       200G
+      Baghnakh........................       200G
+      Brass Knuckles..................       440G
+      Guard Knuckle...................       640G
+    
+     BREAKERS
+      Iron Breaker....................       200G
+      Quick Turn......................       200G
+      Full Moon Blade.................       400G
+      Boomerang Breaker...............       500G
+      Blazer..........................       600G
+    
+     GUNS
+      Iron Gun........................       220G
+      Handgun.........................       440G
+      Shotgun.........................       660G
+    
+     SCYTHES  
+      Demon's Scythe..................       500G
+
+ F. BEST WEAPONS PER CLASS
+
+    This is a list of the best 5 weapons per class. All the weapons are 
+    upgraded to lvl 5, and this list does not take into consideration STR
+    or INT bonuses, or the element or slots. It only takes into consideration
+    ATK (and for staves, MAG).
+
+    STRONGEST WEAPONS:
+     Swords:
+      Sword of Chaos*................. 1623
+      Meteor Tenma*................... 1564
+      Soul Crusher.................... 1555
+      Gram............................ 1500
+      Death's Will*................... 1496
+    
+     Great swords:
+      Musoufugoku..................... 2113
+      Mafunshin*...................... 1936
+      Dragon Bender................... 1845
+      Annihilation.................... 1774
+      Dynamo's End.................... 1733
+    
+     Shortswords:
+      Bonten.......................... 1489
+      Brave Hunter.................... 1418
+      Abner........................... 1383
+      Chrome Hour..................... 1383
+      Krutana......................... 1291
+    
+     Spears:
+      Augerbrick...................... 1774
+      Son of the Sun*................. 1596
+      Sleipnir........................ 1543
+      Highwind........................ 1527
+      Pinaka.......................... 1420
+    
+     Staves**:
+      Rodriguez III................... 2065
+      Nemesis......................... 2033
+      Rimlim's Hammer................. 1993
+      Rune Blade...................... 1835
+      Material Wand................... 1514
+    
+     Knuckles:
+      Kaiser Knuckle.................. 1328
+      Basaltus........................ 1307
+      Genbu Gauntlet.................. 1206
+      Glorious........................ 1190
+      Orichal Knuckle................. 1138
+    
+     Breakers:
+      Siddharta....................... 1678
+      Mobius Link..................... 1568
+      Dragon Wing..................... 1518
+      Orichal Breaker................. 1121
+      Sonic Breaker................... 1016
+    
+     Guns:
+      Argemein........................ 1872
+      Revolver Cannon................. 1731
+      Final Arbiter................... 1437
+      Orichal Gun..................... 1373
+      Magic Rifle..................... 1262
+    
+     Scythes:
+      Gates of Hell................... 1917
+      Purgatory....................... 1597
+      GOH Replica..................... 1453
+      Executioner..................... 1263
+      Silent Wind.....................  835
+    
+     ALL:
+      Musoufugoku (Great Sword)....... 2113
+      Mafunshin (Great Sword)......... 1936
+      Gates of Hell (Scythe).......... 1917
+      Argemein (Gun).................. 1872
+      Dragon Bender (Great Sword)..... 1845
+
+ G. CHARACTER POTENTIALS
+
+    This is a translated version of the list at:
+    http://souls2.nm.land.to/souls2/index.php
+
+    1. Naiz
+       lvl 01 : Abandon
+       lvl 20 : Parry
+       lvl 29 : Enlightnment (Class 1)
+       lvl 29 : Mind's Eye (Class 2)
+       lvl 50 : Otherworld Soul
+    
+    2. Ankrauser
+       lvl 01 : Abandon
+       lvl 24 : Reserves
+       lvl 26 : Mind's Eye
+       lvl 47 : Concentrate (Class 2)
+       lvl 47 : Enlightnment (Class 3)
+    
+    3. Zhang Khan
+       lvl 01 : Abandon
+       lvl 16 : Boldness
+       lvl 22 : Defense
+       lvl 36 : Enlightenment
+    
+    4. Corwin
+       lvl 01 : Effort
+       lvl 10 : Discovery
+       lvl 19 : Defense
+       lvl 39 : Limit Break
+    
+    5. Jed
+       lvl 01 : Luck
+       lvl 11 : Thief
+       lvl 29 : Absolute Resist
+       lvl 35 : Certain Death
+    
+    6. Scarface
+       lvl 01 : Abandon
+       lvl 09 : Boldness
+       lvl 28 : Reserves
+       lvl 32 : Perfect Barrier
+    
+    7. Dragen
+       lvl 01 : Boldness
+       lvl 22 : Genius
+       lvl 34 : Reserves
+       lvl 45 : Perfect Barrier
+    
+    8. Trevor
+       lvl 01 : Deep Breath
+       lvl 09 : Mind's Eye
+       lvl 15 : Defense
+       lvl 36 : Enlightenment
+    
+    9. Nora
+       lvl 01 : Effort
+       lvl 32 : Perfect Barrier
+       lvl 36 : Limit Break
+       lvl 48 : Reserves (Class 2)
+       lvl 48 : Enlightenment (Class 3)
+    
+    10. Himika
+       lvl 01 : Abandon
+       lvl 19 : Certain Death
+       lvl 30 : Acceleration
+       lvl 38 : Parry
+    
+    11. Hera
+       lvl 01 : Effort
+       lvl 30 : Genius
+       lvl 45 : Limit Break
+       lvl 60 : Perfect Barrier
+    
+    12. Marx
+       lvl 01 : Effort
+       lvl 05 : boldness
+       lvl 25 : Reserves
+       lvl 30 : Potential
+    
+    13. Yaku Mu
+       lvl 01 : Health Up
+       lvl 17 : Absolute Resist
+       lvl 34 : Reserves
+       lvl 44 : Limit Break
+    
+    14. Leila
+       lvl 01 : Boldness
+       lvl 20 : Good Shot
+       lvl 27 : Certain Death
+       lvl 39 : Anger
+    
+    15. Hiro
+       lvl 01 : Boldness
+       lvl 28 : Anger
+       lvl 36 : Limit Break
+       lvl 46 : Genius (Class 1)
+       lvl 46 : Accelerate (Class 2)
+       lvl 46 : Enlightenment (Class 3)
+    
+    16. Anderson
+       lvl 12 : Genius
+       lvl 22 : Certain Death
+       lvl 34 : Parry
+       lvl 45 : Accelerate
+    
+    17. Iglaine
+       lvl 01 : Boldness
+       lvl 16 : Concentrate
+       lvl 26 : Genius
+       lvl 38 : Anger
+    
+    18. Wage
+       lvl 01 : Health Up
+       lvl 04 : Mind's Eye
+       lvl 18 : Absolute Resist
+       lvl 28 : Enlightement (Class 1)
+       lvl 28 : Defense (Class 2)
+    
+    19. Kurt
+       lvl 01 : Float
+       lvl 01 : Effort
+       lvl 22 : Boldness
+       lvl 33 : Anger
+    
+    20. Klause
+       lvl 01 : Concentrate
+       lvl 12 : Defense
+       lvl 17 : Boldness
+       lvl 48 : Accelerate (Class 1)
+       lvl 48 : Mind's Eye (Class 2)
+    
+    21. Tal
+       lvl 01 : Boldness
+       lvl 18 : Certain Death
+       lvl 26 : Anger
+       lvl 47 : Limit Break
+    
+    22. Nell
+       lvl 01 : Discovery
+       lvl 12 : Boldness
+       lvl 31 : Limit Break
+       lvl 34 : Perfect Barrier
+    
+    23. Hans
+       lvl 01 : Deep Breath
+       lvl 16 : Absolute Resist
+       lvl 39 : Limit Break
+       lvl 42 : Perfect Barrier
+    
+    24. Max
+       lvl 01 : Effort
+       lvl 16 : Good Shot
+       lvl 29 : Accelerate
+       lvl 44 : Anger
+    
+    25. Levi
+       lvl 01 : Luck
+       lvl 01 : Discovery
+       lvl 22 : Absolute Resist
+       lvl 39 : Limit Break
+    
+    26. Rosette
+       lvl 01 : Discovery
+       lvl 01 : Thief
+       lvl 24 : Certain Death
+       lvl 29 : Parry
+    
+    27. Roze
+       lvl 01 : Potential
+       lvl 01 : Concentrate
+       lvl 39 : Anger
+       lvl 44 : Limit Break
+    
+    28. Meu
+       lvl 01 : Potential
+       lvl 29 : Reserves
+       lvl 38 : Parry
+       lvl 48 : Concentration (Class 1)
+       lvl 48 : Enlightenment (Class 2)
+    
+    29. Arthus
+       lvl 01 : Boldness
+       lvl 27 : Concentration (Class 1)
+       lvl 27 : Enlightenment (Class 2)
+       lvl 38 : Anger
+       lvl 46 : Mind's Eye (Class 1)
+       lvl 46 : Absolute Resist (Class 2)
+    
+    30. Yen
+       lvl 01 : Luck
+       lvl 10 : Abandon
+       lvl 19 : Deep Breath
+       lvl 37 : Anger
+    
+    31. Cuo
+       lvl 01 : Effort
+       lvl 26 : Potential
+       lvl 31 : Accelerate
+       lvl 44 : Highlain
+    
+    32. Garnet
+       lvl 01 : Luck
+       lvl 12 : Concentration
+       lvl 24 : Genius
+       lvl 33 : Parry
+    
+    33. Ciel
+       lvl 01 : Float
+       lvl 22 : Perfect Barrier
+       lvl 30 : Potential
+       lvl 30 : Luck
+       lvl 42 : Limit Break
+    
+    34. Shiro
+       lvl 01 : Boldness
+       lvl 01 : Anger
+       lvl 01 : Limit Break
+       lvl 46 : Genius (Class 1)
+       lvl 46 : Enlightenment (Class 2)
+       lvl 46 : Discovery (Class 3)
+    
+    35. Choco
+       lvl 01 : Health Up
+       lvl 08 : Concentration
+       lvl 30 : Limit Break
+       lvl 33 : Perfect Barrier
+    
+    36. Nagi
+       lvl 01 : Boldness
+       lvl 25 : Certain Kill
+       lvl 32 : Limit Break (Class 1)
+       lvl 32 : Accelerate (Class 2)
+       lvl 36 : Anger
+    
+    37. Vanilla
+       lvl 01 : Boldness
+       lvl 01 : Health Up
+       lvl 26 : Perfect Barrier
+       lvl 32 : Anger (Class 1)
+       lvl 32 : Limit Break (Class 2)
+    
+    38. Fredrika
+       lvl 16 : Good Shot
+       lvl 22 : Mind's Eye
+       lvl 36 : Highlain
+       lvl 46 : Reserves (Class 2)
+       lvl 46 : Enlightenment (Class 3)
+    
+    39. Mick
+       lvl 01 : Luck
+       lvl 28 : Acceleration
+       lvl 34 : Potential
+       lvl 39 : Limit Break
+    
+    40. Yunellia
+       lvl 01 : Genius
+       lvl 22 : Parry
+       lvl 28 : Enlightenment
+       lvl 36 : Reserves
+    
+    41. Luca
+       lvl 01 : Abandon
+       lvl 13 : Mind's Eye
+       lvl 29 : Genius
+       lvl 46 : Anger (Class 2)
+       lvl 46 : Perfect Barrier (Class 3)
+
+
+ H. POTENTIAL DESCRIPTIONS
+
+    name - condition
+    effect
+    
+    In trouble: Remaining HP is less than 1/3 of maximum HP.
+    Near death: Remaining HP is less than 1/8 of maximum HP.
+
+    Concentration   - In trouble
+    Accuracy and evasion increase by 30.
+
+    Certain Death   - SP rank 3
+    Accuracy and critical increase by 30.
+
+    Anger           - SP rank 3
+    Phyiscal offense increases to 125%.
+
+    Defense         - SP rank 3
+    Defense increases to 125%.
+
+    Limit Break     - SP rank 3
+    Magic offense increases to 125%.
+
+    Mind's Eye      - none
+    Damage against non-human enemies increases (excluding bosses).
+
+    Absolute Resist - none
+    Resistance to all (negative?) status effects increases.
+
+    Parry           - Near death
+    Evade all physical attacks (excepting specials).
+
+    Perfect Barrier - Near death
+    Evade all magical attacks (except specials).
+
+    Effort          - none
+    EXP gain increases to 150%.
+
+    Luck            - none
+    EP gain increases to 150%.
+
+    Potential       - none
+    Gain (2?) extra stat points on level up.
+
+    Health Up       - none
+    Gain extra HP bonus on level up.
+
+    Deep Breath     - SP rank 3
+    "Has a chance to vid attacks up to lvl 10"
+    "Damage defence of Lv*10"
+
+    Accelerate      - In trouble
+    AP recovery rate increases.
+
+    Boldness        - none
+    SP heals every turn.
+
+    Abandon         - none
+    Avoid counterattacks.
+
+    Genius          - SP rank 2 (yes, rank 2 and not 3)
+    AP use decreases for everything except Move.
+    "AP cost of skills decreases by 25% (except Move)"
+
+    Thief           - none
+    "Steal" skill success improves.
+
+    Discovery        - none
+    Item drop rate from enemies increases.
+
+    Enlightenment   - In trouble
+    Accuracy and evasion increases by 50.
+
+    Highlain        - SP rank 3
+    Accuracy and critical increases by 50.
+
+    Good Shot       - SP rank 3
+    Attacks always hit. (Overrides Parry?)
+
+    Reserves        - Near death
+    Offense and defense increase to 150%.
+    Accuracy increases to 100% (?)
+
+    Float           - none
+    Ignore height restrictions.
+
+-------------------------------------------------------------------------------
+
+Reference:
+
+GameFAQs Spectral Souls (PSP) Board
+ http://boards.gamefaqs.com/gfaqs/gentopic.php?board=928828
+
+Spectral Souls 2 Wiki (Japanese)
+ http://souls2.nm.land.to/souls2/index.php
+ http://ssouls2.hp.infoseek.co.jp/
+
+New Wind of Kontaro
+ http://homepage3.nifty.com/new_wind_of_kontaro/PS2_GAME/SPECTRAL-SOULS2/
+
+With thanks to map4444 and mikagami81 for effects of Potentials.
+
+This document is (c) Copyright 2007 Travis Swift (swift412).
+Spectral Souls is (c) Copyright 2006 Idea Factory.
+All rights reserved.
+
+-------------------------------------------------------------------------------
