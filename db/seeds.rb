@@ -5,8 +5,6 @@
 require_relative "SSItemSearch"
 results = prepare_seed()
 
-puts results[:equip].first
-results[:test].each do |item_hash| 
+results[:equip].each do |item_hash| 
     equip = Equipment.find_or_create_by_name(item_hash["name"], item_hash)
-    #puts "#{equip.name} created!"
 end
