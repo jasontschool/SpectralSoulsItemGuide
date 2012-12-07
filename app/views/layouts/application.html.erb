@@ -1,13 +1,28 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>ItemGuide</title>
+  <title>Spectral Souls Item Guide</title>
   <%= stylesheet_link_tag    "application", :media => "all" %>
   <%= javascript_include_tag "application" %>
   <%= csrf_meta_tags %>
+  
+  <style type = "text/css" media="screen">
+        /* Override some defaults */
+      html, body {
+        background-color: #ffff;
+     }
+     .container {
+       width : 800px;
+     }
+   </style>
 </head>
 <body>
-
+    <!-- Navigation Bar -->
+    <div class="navbar navbar-fixed-top navbar-inverse">
+        <div class="navbar-inner">
+            <a class="brand" href=<%= home_path%> >Spectral Souls Item Guide</a>
+        </div>
+    </div>
 <%= yield %>
 
 </body>

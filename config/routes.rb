@@ -1,5 +1,5 @@
 ItemGuide::Application.routes.draw do
-  get "equipment/index"
+  get "equipment/index", :as => :home
 
 
   # The priority is based upon order of creation:
