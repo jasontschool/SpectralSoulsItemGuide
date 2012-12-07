@@ -15,8 +15,8 @@ def equip
     return {
     :regex => #'?' at begining of optional lines for the newline char.
     /\s*\d+\. ?\d+\. (?<name>[\w +'-]+)\n+
-Type            : (?<type>[\w ]+)(?<unique> \(\*+\))?
-?(Range           : (?<range>[\d]+)(?<range_unique> \(\*+\))?)?
+Type            : (?<item_type>[\w ]+)( \((?<unique_user>\*+)\))?
+?(Range           : (?<range>[\d]+)( \((?<range_unique_code>\*+)\))?)?
 ?(Height          : (?<height>[\d]+))?
 Element         : (?<element>[\w\(\)]+)
 ?(Absorbs Element : (?<absorb>[\w\(\)]+))?

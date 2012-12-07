@@ -1,22 +1,26 @@
+
 require_relative "ConstantsFactory"
 require_relative "SSItemSearchTest.rb"
 
+# NOTE: All files being loaded must be present in a folder called "sources"
+#   that is located in this file's directory.
 def loadSSFiles
     filepaths = {
         :equip=>'spectral_souls_psp_equip.txt',
         :test => 'testItem.txt',
     }
-    missingFiles = 0
+    home = File.dirname(__FILE__) + '/sources/'
+    puts home
     files_hash = filepaths.each_with_object({}) do |(k, v), h|
         begin 
-            h[k] = File.read File.dirname($0) + '/' + v
+            path = home + v
+            h[k] = File.read path
             #puts "#{k} loaded successfully"
         rescue Errno::ENOENT
-            puts "Warning: File '#{k}' at '#{filepaths[k]}' not found"
-            missingFiles+= 1
+            puts Dir.pwd
+            raise "Warning: File '#{k}' at '#{path}' not found"
         end
     end
-    puts "Warning: #{missingFiles} file#{"s" if missingFiles > 1} not found." unless missingFiles == 0
     return files_hash
 end
 
@@ -28,6 +32,14 @@ def correct_item_hash(item_hash)
     item_hash["sell"] = temp
     return item_hash
 end
+
+#Adjust for db setup
+def prepare_item_hash(item_hash)
+   item_hash["unique_user"] = !!item_hash["unique_user"]  #boolean
+   code = item_hash["range_unique_code"]
+   item_hash["range_unique_code"] = code ? code.length : 0
+end
+
 def hashify_match(match)
 	return correct_item_hash Hash[match.names.zip(match.captures)]
 end
@@ -52,18 +64,11 @@ def execute_with_files(files_hash)
     return all_results #hash of file results.
 end
 
-
-
-
-
-
-
-files = loadSSFiles()
-results = execute_with_files files
-if check_accurate results, files
-    puts results[:test].last if ARGV[0] == "last"
-else
-    raise "Errors when loading equipment from files"
+def prepare_seed
+    files = loadSSFiles()
+    results = execute_with_files files
+    puts results[:test].last
+    raise "Errors when loading equipment from files" unless check_accurate results, files
+    return results
 end
 
- 

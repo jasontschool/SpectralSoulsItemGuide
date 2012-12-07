@@ -32,9 +32,8 @@ def check_accurate(results_hash, files_hash)
 end
 
 #Doesn't check unique object specifics, only mandatory object presence.
-#TODO: ring/armor debug.
 def validate_object(item_hash)
-    not_nil = ["name", "type", "element", "register", "sell", "buy", "invent1", "invent2"]
+    not_nil = ["name", "item_type", "element", "register", "sell", "buy", "invent1", "invent2"]
     stats = ["atk", "def", "hit", "avd", "mag", "str", "vit", "agl", "int", "luk", "cost", "ap"]
     stats.each do |stat|
         not_nil += (1..5).map {|x| "#{stat}#{x}"}
@@ -43,7 +42,7 @@ def validate_object(item_hash)
         
     conditional_nil = []
     valid = true
-    case item_hash["type"]
+    case item_hash["item_type"]
     when "Armour", "Ring"
         not_nil += ["absorb", "autoskill", "autoskill_slot_count"]
     else
