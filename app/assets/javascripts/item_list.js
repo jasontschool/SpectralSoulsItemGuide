@@ -13,7 +13,6 @@ IL = {
             IL.activate_search("name", "search_name", "name_search_start");
             
             
-            
             $("#sortby_name").toggle(
                     function() {IL.sortTable(true, "name")},
                     function() {IL.sortTable(false, "name")}
@@ -77,7 +76,7 @@ IL = {
                 return $(a).text() > $(b).text() ? 1 : -1;
         },
         compareDesc: function(a, b) {
-                return - compareAsc(a, b);
+                return - IL.compareAsc(a, b);
                 //return $(a).text() < $(b).text() ? 1 : -1;
         }
     };
