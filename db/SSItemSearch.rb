@@ -15,7 +15,8 @@ def loadSSFiles
         begin 
             path = home + v
             h[k] = File.read path
-            #puts "#{k} loaded successfully"
+            puts "#{k} loaded successfully: #{h[k]}" if k==:test
+            puts home
         rescue Errno::ENOENT
             puts Dir.pwd
             raise "Warning: File '#{k}' at '#{path}' not found"
