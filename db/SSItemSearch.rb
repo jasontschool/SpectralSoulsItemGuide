@@ -9,7 +9,7 @@ def loadSSFiles
         :equip=>'spectral_souls_psp_equip.txt',
         :test => 'testItem.txt',
     }
-    home = File.dirname(__FILE__) + '/sources/'
+    home = Rails.root.join('db/sources/')
     puts home
     files_hash = filepaths.each_with_object({}) do |(k, v), h|
         begin 
