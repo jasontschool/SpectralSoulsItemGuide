@@ -1,0 +1,14 @@
+ItemGuide TODO:
+Add images for sort options.
+Fix stable sort?!
+Filters:
+    Name filter (don't delete rows??).
+    Type filter (dropdown)
+Display "Sorry nothing found" row if nothing found.
+Add attributes?
+Maybe as extra expansion to side.
++Filters on them.
+
+FIX HEROKU APP
+    -seeds not working?
+    -file loaded, heroku doesn't accept the regex for strange reason.
