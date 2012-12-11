@@ -1,18 +1,28 @@
+<script type = "text/javascript">
+    $(IL.setup)
+</script>
+<div id="list_div" style="margin-left:50px;margin-right:50px;">
 <h1>Equipment list</h1>
 
-<table class = "table">
+
+<table class = "table table-striped table-bordered table-condensed" >
     <thead>
-        <tr>
-            <th>Name</th>
-            <th>Type</th>
-        </tr>
+        <strong><tr>
+            <th id="header_name">
+                <a id = "sortby_name" href = <%= home_path %>> Name </a> 
+            </th> 
+            <th id="header_item_type">
+                <a id = "sortby_item_type" href = <%= home_path %>> Type </a> 
+            </th>
+        </tr></strong>
     </thead>
     <tbody>
         <% for equip in @equipment %>
-            <tr>
-                <td> <%=equip.name%> </td>
-                <td> <%=equip.item_type%> </td>
+            <tr id = <%= equip.name.gsub(/ /, "_")%>>
+                <td id=name> <%=equip.name%> </td>
+                <td id=item_type> <%=equip.item_type%> </td>
             </tr>
         <% end %>
     </tbody>
 </table>
+</div>
