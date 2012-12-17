@@ -23,8 +23,15 @@
             <a class="brand" href=<%= home_path%> >Spectral Souls Item Guide</a>
         </div>
     </div>
-<%= yield %>
+    <div style="width:90%;margin:0 auto;">
+      <p id=nojsmsg> Note: This version of the site does not yet utilize JavaScript. Expect changes in the future. </p>
+      <%= yield %>
+      <footer class="footer"> 
+        <p> Site made by Jason Teoh: jasontgame@gmail.com </p>
+        <p> Credits: All game info comes from guides posted by swift412 on GameFAQs. </p>
+      </footer>
+    </div>
 
 </body>
-Credits: All game info comes from guides posted by swift412 on GameFAQs.
+
 </html>

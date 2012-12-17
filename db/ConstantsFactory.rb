@@ -9,7 +9,7 @@ def get_constants(filename)
 end
 
 def test #test method
-    return equip
+    return creation
 end
 def equip
     return {
@@ -53,4 +53,11 @@ Autoskill Slots : (?<autoskill_slot_count>\d))?
 
 }
 
+end
+def creation
+    return {
+    :regex => 
+    /
+    /,
+  }
 end

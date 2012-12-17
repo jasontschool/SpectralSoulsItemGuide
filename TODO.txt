@@ -1,14 +1,17 @@
 ItemGuide TODO:
-Add images for sort options.
-Fix stable sort?!
+Add images for sort options. (arrows)
+Fix stable sort?! wtf??! maybe give up...
 Filters:
-    Name filter (don't delete rows??).
+    Name filter (don't delete rows?? what did i mean here? done?).
     Type filter (dropdown)
 Display "Sorry nothing found" row if nothing found.
 Add attributes?
 Maybe as extra expansion to side.
 +Filters on them.
 
-FIX HEROKU APP
+FIX HEROKU APP (DONE :D)
     -seeds not working?
     -file loaded, heroku doesn't accept the regex for strange reason.
+    
+    
+Add other data in (eg synthesis) hi jason.

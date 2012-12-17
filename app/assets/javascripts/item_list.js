@@ -1,6 +1,6 @@
 IL = {
         setup: function() {
-            $("h1").append(" (under construction)");
+            $("#nojsmsg").remove()
             //$("#sortby_name").click(function() {IL.sortTable("name")}).removeAttr('href');
             $("#header_name").append($('<select>', {id: 'name_search_start',
                                                     width: 110})
@@ -11,7 +11,7 @@ IL = {
                                                     width: 150}));
 
             IL.activate_search("name", "search_name", "name_search_start");
-            
+            $("#header_item_type").append($('<div>', {id: 'type_list', text: "HII"}))
             
             $("#sortby_name").toggle(
                     function() {IL.sortTable(true, "name")},

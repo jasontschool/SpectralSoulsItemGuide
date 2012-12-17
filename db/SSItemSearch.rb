@@ -8,6 +8,7 @@ def loadSSFiles
     filepaths = {
         :equip=>'spectral_souls_psp_equip.txt',
         :test => 'testItem.txt',
+		#:creation=>'creation_guide.txt',
     }
     home = Rails.root.join('db/sources/')
     puts home
@@ -15,8 +16,8 @@ def loadSSFiles
         begin 
             path = home + v
             h[k] = File.read path
-            puts "#{k} loaded successfully: #{h[k]}" if k==:test
-            puts home
+            #puts "#{k} loaded successfully: #{h[k]}" if k==:test
+            #puts home
         rescue Errno::ENOENT
             puts Dir.pwd
             raise "Warning: File '#{k}' at '#{path}' not found"
@@ -28,13 +29,17 @@ end
 #Adjust for typos/mistakes.
 def correct_item_hash(item_hash)
     #swap buy/sell prices
-    temp = item_hash["buy"]
-    item_hash["buy"] = item_hash["sell"]
-    item_hash["sell"] = temp
+    if item_hash["sell"]
+      temp = item_hash["buy"]
+      item_hash["buy"] = item_hash["sell"]
+      item_hash["sell"] = temp
+    else 
+      item_hash.delete "sell"
+    end
     return item_hash
 end
 
-#Adjust for db setup
+#Adjust for db setup - not used?
 def prepare_item_hash(item_hash)
    item_hash["unique_user"] = !!item_hash["unique_user"]  #boolean
    code = item_hash["range_unique_code"]
@@ -73,3 +78,9 @@ def prepare_seed
     return results
 end
 
+files = loadSSFiles()
+if (constants_hash = get_constants :test)
+  print constants_hash
+  file_results = get_hash_matches files[:test], constants_hash[:regex]
+  print file_results
+end
