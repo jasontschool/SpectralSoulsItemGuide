@@ -9,7 +9,7 @@ def get_constants(filename)
 end
 
 def test #test method
-    return creation
+    return synth
 end
 def equip
     return {
@@ -54,10 +54,22 @@ Autoskill Slots : (?<autoskill_slot_count>\d))?
 }
 
 end
-def creation
+
+def creation_extract(file, store)
+  split_creation = /A\. SYNTHESIS(?<synth>[\s\S]+)B\. MASTERIES(?<mast>[\s\S]+)C\. INVENT SKILL(?<skills>[\s\S]+)D\. INVENT WEAPON\/ARMOR\/RING/
+  matches = file.match split_creation
+  matches.names.each {|name| store[name.to_sym] = matches[name]}
+  #puts matches[:mast]
+end
+
+def synth
     return {
     :regex => 
-    /
-    /,
+    /\d+\. (?<name>[a-zA-Z+'\- \(\)\?]+)\.* = (?<components>[a-zA-Z '\.+\-\n]+)/
   }
+end
+
+#same as synth
+def mast
+  return synth
 end

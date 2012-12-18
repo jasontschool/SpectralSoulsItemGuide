@@ -1,3 +1,26 @@
+-------------------------------------------------------------------------------
+
+             Spectral Souls ~Resurrection of the Ethereal Empires~
+
+                            C R E A T I O N   F A Q
+
+                               Author: swift412
+                           Email: swift412@gmail.com
+                                 Version: 1.10
+                   Last updated: 2007/05/21, 19:12 GMT+0200
+
+-------------------------------------------------------------------------------
+
+INDEX
+
+ A. Synthesis
+ B. Masteries
+ C. Invent Skill
+ D. Invent Weapon/Armor/Ring
+
+-------------------------------------------------------------------------------
+
+A. SYNTHESIS
 
   1. Divine Bokutou.... = Iron Sword........ + God Tree Branch... +
                           Holy Element......
@@ -13,14 +36,33 @@
 
   6. Moon Crusher...... = Handgun........... + Shotgun........... +
                           Moon Fragment.....
-						  
-						  
-						  
-						  
-						  
-						  
-						  
-						  
+
+  7. Feather Ring...... = Speed Ring........ + Sagestone......... +
+                          Thunder Element...
+
+  8. Skanda Talisman... = Speed Ring........ + Sagestone......... +
+                          Wind Element......
+
+  9. Power Ring........ = Beast Claw........ + Sagestone.........
+
+ 10. Vitality Ring..... = Heart Stone....... + Sagestone.........
+
+ 11. Speed Ring........ = Bat Wing.......... + Sagestone.........
+
+ 12. Wisdom Ring....... = Contract.......... + Sagestone.........
+
+ 13. Luck Ring......... = Hiyoko Crest...... + Sagestone.........
+
+
+263. Lightning Guard... = Holy Guard........ + X-Frame........... +
+                          Sagestone.........
+
+264. Princess Tiara.... = Princess Blood.... + Sagestone.........
+
+265. Blue Water........ = Seiryu Sword...... + Genbu Gauntlet.... +
+                          Byakko Bracelet... + Suzaku Ring.......
+
+B. MASTERIES
 
   1. Flamethrower...... = Fireball.......... + Fireball..........
 
@@ -35,3 +77,9 @@
   6. Thunder Attack.... = Attack............ + Thunder Clap......
 
   7. Storm Surge....... = Wind Shear........ + Wind Shear........
+
+  8. Wind Attack....... = Attack............ + Wind Shear........
+
+  9. Temper............ = Earth Needle...... + Earth Needle......
+
+ 10. Earth Attack...... = Attack............ + Earth Needle......

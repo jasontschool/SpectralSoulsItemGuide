@@ -8,9 +8,13 @@ def loadSSFiles
     filepaths = {
         :equip=>'spectral_souls_psp_equip.txt',
         :test => 'testItem.txt',
-		#:creation=>'creation_guide.txt',
+        :creation => 'creation guide.txt',
     }
-    home = Rails.root.join('db/sources/')
+    if defined? Rails
+      home = Rails.root.join('db/sources/')
+    else
+      home = File.dirname(__FILE__) + '/sources/'
+    end
     puts home
     files_hash = filepaths.each_with_object({}) do |(k, v), h|
         begin 
@@ -23,20 +27,33 @@ def loadSSFiles
             raise "Warning: File '#{k}' at '#{path}' not found"
         end
     end
+    #extracting only portions that are required:
+    creation = files_hash.delete(:creation)
+    creation_extract creation, files_hash #see ConstantsFactory
+    
     return files_hash
 end
 
 #Adjust for typos/mistakes.
-def correct_item_hash(item_hash)
+def correct_item_hash(item_hash, source)
     #swap buy/sell prices
-    if item_hash["sell"]
-      temp = item_hash["buy"]
-      item_hash["buy"] = item_hash["sell"]
-      item_hash["sell"] = temp
-    else 
-      item_hash.delete "sell"
+    case source
+    when :equip
+      if item_hash["sell"]
+        temp = item_hash["buy"]
+        item_hash["buy"] = item_hash["sell"]
+        item_hash["sell"] = temp
+      else 
+        item_hash.delete "sell"
+      end
+      return item_hash
+    when :synth, :mast
+      item_hash["components"] = item_hash["components"].scan(/[\w' ]+/).map {|x| x.strip}.select {|x| !x.empty?}
+      return item_hash
+    when :test
+      return correct_item_hash item_hash, :synth
+      #switch "creation" with what you want to test
     end
-    return item_hash
 end
 
 #Adjust for db setup - not used?
@@ -46,15 +63,15 @@ def prepare_item_hash(item_hash)
    item_hash["range_unique_code"] = code ? code.length : 0
 end
 
-def hashify_match(match)
-	return correct_item_hash Hash[match.names.zip(match.captures)]
+def hashify_match(match, source)
+	return correct_item_hash Hash[match.names.zip(match.captures)], source
 end
 
-def get_hash_matches(contents, regex)
-    matches = contents.to_enum(:scan, regex).map { Regexp.last_match }
+def get_hash_matches(files, regex, source)
+    matches = files[source].to_enum(:scan, regex).map { Regexp.last_match }
     results = []
     matches.each do |match|
-        results << (hashify_match match)
+        results << (hashify_match match, source)
     end
     return results
 end
@@ -79,8 +96,14 @@ def prepare_seed
 end
 
 files = loadSSFiles()
-if (constants_hash = get_constants :test)
-  print constants_hash
-  file_results = get_hash_matches files[:test], constants_hash[:regex]
-  print file_results
+tests = [:synth, :mast]
+file_results = {}
+tests.each do |test|
+  if (constants_hash = get_constants test)
+  #print constants_hash
+    file_results[test] = get_hash_matches files, constants_hash[:regex], test
+    #puts file_results
+    puts "#{file_results[test].count} matches found in #{test}"
+  end
 end
+puts file_results[:synth]
