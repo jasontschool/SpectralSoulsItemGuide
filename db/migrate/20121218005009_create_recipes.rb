@@ -6,7 +6,7 @@ class CreateRecipes < ActiveRecord::Migration
 
       t.timestamps
     end
-    add_index :recipes, :result
-    add_index :recipes, :component
+    add_index :recipes, :result_id
+    add_index :recipes, :component_id
   end
 end
