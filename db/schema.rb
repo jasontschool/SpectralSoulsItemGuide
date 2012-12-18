@@ -112,13 +112,13 @@ ActiveRecord::Schema.define(:version => 20121218020039) do
   add_index "items", ["name"], :name => "index_items_on_name"
 
   create_table "recipes", :force => true do |t|
-    t.integer  "result_id",    :limit => 255
-    t.integer  "component_id", :limit => 255
-    t.datetime "created_at",                  :null => false
-    t.datetime "updated_at",                  :null => false
+    t.integer  "result_id"
+    t.integer  "component_id"
+    t.datetime "created_at",   :null => false
+    t.datetime "updated_at",   :null => false
   end
 
-  add_index "recipes", ["component_id"], :name => "index_recipes_on_component"
-  add_index "recipes", ["result_id"], :name => "index_recipes_on_result"
+  add_index "recipes", ["component_id"], :name => "index_recipes_on_component_id"
+  add_index "recipes", ["result_id"], :name => "index_recipes_on_result_id"
 
 end

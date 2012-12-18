@@ -47,11 +47,16 @@ def correct_item_hash(item_hash, source)
       end
       return item_hash
     when :synth, :mast
-      item_hash["components"] = item_hash["components"].scan(/[\w' ]+/).map {|x| x.strip}.select {|x| !x.empty?}
+      item_hash["components"] = synth_breakdown item_hash["components"]
       return item_hash
-    when :test
-      return correct_item_hash item_hash, :synth
-      #switch "creation" with what you want to test
+    when :invent_equip
+      item_hash.each {|k, v| item_hash[k] = v.strip unless v.nil?}
+      item_hash["invents"] = [item_hash["parent1"]]
+      item_hash["invents"] << item_hash["parent2"] unless item_hash["parent2"].nil?
+      item_hash.delete("parent1")
+      item_hash.delete("parent2")
+      return item_hash
+      
     end
 end
 
@@ -96,18 +101,23 @@ def prepare_seed
     return results
 end
 
-=begin
-files = loadSSFiles()
-tests = [:synth, :mast]
-file_results = {}
-tests.each do |test|
-  if (constants_hash = get_constants test)
-  #print constants_hash
-    file_results[test] = get_hash_matches files, constants_hash[:regex], test
-    #puts file_results
-    puts "#{file_results[test].count} matches found in #{test}"
+def local_test
+  files = loadSSFiles()
+  tests = [:invent_equip]
+  file_results = {}
+  tests.each do |test|
+    if (constants_hash = get_constants test)
+    #print constants_hash
+      file_results[test] = get_hash_matches files, constants_hash[:regex], test
+      #puts file_results
+      puts "#{file_results[test].count} matches found in #{test}"
+    end
   end
+  puts file_results[:invent_equip][30..35]
+  #puts file_results[:synth][0..10]
+  #select{|x| x["components"].any?{|x| x=~ /Strata/}}
+  #puts file_results[:synth].select{|x| x["name"] =~ /(Power)|(Body)/}
 end
-puts file_results[:synth]
-=end
-prepare_seed()
+
+
+local_test

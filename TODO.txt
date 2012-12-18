@@ -1,17 +1,40 @@
 ItemGuide TODO:
+
+Functional:
+Fix seed: component considers V-Strata as two words (other bugs?)
+  status: Tentatively fixed.
+Synthesis component of __ should be unique.
+  status: incomplete - view-based (need to keep track of recipes, so require dup records
+Invents from __! (maybe this should be a new table altogether)
+  status: Will use invent weapon/armor/ring data.
+      *would be good to delete columns from equipment
+Invents into
+  *Maybe show the entire chain =O. see above.
+
+search bar - top right
+
+Display AP + Cost
+
+
+Convenience/Display:
 Add images for sort options. (arrows)
 Fix stable sort?! wtf??! maybe give up...
 Filters:
     Name filter (don't delete rows?? what did i mean here? done?).
     Type filter (dropdown)
 Display "Sorry nothing found" row if nothing found.
-Add attributes?
+
 Maybe as extra expansion to side.
 +Filters on them.
 
+ADD COLORS.
+
+Completed:
+Add other data in (eg synthesis) hi jason.
+
+Add attributes? (done)
 FIX HEROKU APP (DONE :D)
     -seeds not working?
     -file loaded, heroku doesn't accept the regex for strange reason.
     
     
-Add other data in (eg synthesis) hi jason.

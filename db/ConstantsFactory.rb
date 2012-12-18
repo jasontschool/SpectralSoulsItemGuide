@@ -3,7 +3,7 @@ def get_constants(filename)
     begin
         return eval "#{filename}"
     rescue NameError
-        print "Error - Game not found!: '#{filename}'\n"
+        print "Error - constants not found!: '#{filename}'\n"
         return nil
     end
 end
@@ -56,7 +56,7 @@ Autoskill Slots : (?<autoskill_slot_count>\d))?
 end
 
 def creation_extract(file, store)
-  split_creation = /A\. SYNTHESIS(?<synth>[\s\S]+)B\. MASTERIES(?<mast>[\s\S]+)C\. INVENT SKILL(?<skills>[\s\S]+)D\. INVENT WEAPON\/ARMOR\/RING/
+  split_creation = /A\. SYNTHESIS(?<synth>[\s\S]+)B\. MASTERIES(?<mast>[\s\S]+)C\. INVENT SKILL(?<invent_skills>[\s\S]+)D\. INVENT WEAPON\/ARMOR\/RING(?<invent_equip>[\s\S]+)----------/
   matches = file.match split_creation
   matches.names.each {|name| store[name.to_sym] = matches[name]}
   #puts matches[:mast]
@@ -69,13 +69,22 @@ def synth
   }
 end
 
+def synth_breakdown(components_arr)
+  return components_arr.scan(/( \+ )?(?<capture>[a-zA-Z'\- \(\)\?]+\+?)\./).map{|x| x[0].strip}
+end
 #same as synth
 def mast
   return synth
 end
 
-def skills
+def invent_skills
   return {
   :regex => //
+  }
+end
+
+def invent_equip
+  return {
+  :regex => /(?<base>[a-zA-Z+'\- \(\)\?]+)\s+> (?<parent1>[a-zA-Z+'\- \(\)\?]+)\s+(; (?<parent2>[a-zA-Z+'\- \(\)\?]+)\s+)?/
   }
 end

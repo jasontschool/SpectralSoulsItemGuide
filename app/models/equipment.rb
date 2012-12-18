@@ -4,6 +4,8 @@ class Equipment < ActiveRecord::Base
       return {:type => item_type,
               :element => element,
               :register? => register,
+              :buy => (buy==0)? "Not purchasable" : "#{buy} G",
+              :sell => "#{sell} G"
               }
   end
   def spec_stats
