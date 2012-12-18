@@ -1,7 +1,9 @@
 ItemGuide::Application.routes.draw do
+  get "item/index", :as =>:item_index
+
   get "equipment/index", :as => :home
   get "equipment/show/:name" => 'equipment#show' , :as => :show_equipment
-
+  get "item/show/:name" => 'item#show', :as => :show_item
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

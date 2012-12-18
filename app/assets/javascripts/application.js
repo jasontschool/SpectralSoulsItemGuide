@@ -16,3 +16,7 @@
 //= require jquery.sortElements
 //= require_tree .
 //= require item_list
+//= require equipment_list
+
+
+$(function() {$("#nojsmsg").remove()})//remove js warning message

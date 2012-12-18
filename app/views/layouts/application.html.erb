@@ -1,4 +1,8 @@
 <!DOCTYPE html>
+<script type = "text/javascript">
+
+</script>
+
 <html>
 <head>
   <title>Spectral Souls Item Guide</title>
@@ -20,11 +24,20 @@
     <!-- Navigation Bar -->
     <div class="navbar navbar-static-top navbar-inverse">
         <div class="navbar-inner">
-            <a class="brand" href=<%= home_path%> >Spectral Souls Item Guide</a>
+            <p class = "brand"> Spectral Souls Item Guide: </p>
+            
+            <form action=<%=item_index_path%> style="float: left;width:auto;">
+              <button class="btn" type="submit">All Items</button>
+            </form>
+            <p style="float: left;width:auto;margin-top:10px;"> --- </p>
+            <form action=<%=home_path%> style="float: left;width:auto;">
+              <button class="btn" type="submit">Equipment</button>
+            </form>
+            
         </div>
     </div>
     <div style="width:90%;margin:0 auto;">
-      <p id=nojsmsg> Note: This version of the site does not yet utilize JavaScript. Expect changes in the future. </p>
+      <p id=nojsmsg> Note: Some functionality is missing because you do not have JavaScript enabled. </p>
       <%= yield %>
       <footer class="footer"> 
         <p> Site made by Jason Teoh: jasontgame@gmail.com </p>

@@ -6,7 +6,7 @@ class EquipmentController < ApplicationController
   end
   
   def show
-    @equip = silent("Equipment.find_by_name(params[:name])")
+    @equip = Equipment.find_by_name(params[:name])
     if @equip.nil?
     else
       @general = @equip.basic_stats.map
@@ -14,6 +14,10 @@ class EquipmentController < ApplicationController
       @specs = @equip.spec_stats 
       @eqp_stats = @equip.eqp_stats
       @char_stats = @equip.char_stats
+      
+      temp = Item.find_by_name @equip.name
+      @synthesizes = temp.synthesizes.map{|x| check_equip x}
+      @components = temp.components.map{|x| check_equip x}
     end
   end
 end

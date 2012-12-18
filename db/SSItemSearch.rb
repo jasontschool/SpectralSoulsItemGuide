@@ -15,7 +15,6 @@ def loadSSFiles
     else
       home = File.dirname(__FILE__) + '/sources/'
     end
-    puts home
     files_hash = filepaths.each_with_object({}) do |(k, v), h|
         begin 
             path = home + v
@@ -23,7 +22,7 @@ def loadSSFiles
             #puts "#{k} loaded successfully: #{h[k]}" if k==:test
             #puts home
         rescue Errno::ENOENT
-            puts Dir.pwd
+            puts home
             raise "Warning: File '#{k}' at '#{path}' not found"
         end
     end
@@ -80,7 +79,7 @@ def execute_with_files(files_hash)
     all_results = {}
     files_hash.each do |k, v|
         if (constants_hash = get_constants k)
-            file_results = get_hash_matches v, constants_hash[:regex]
+            file_results = get_hash_matches files_hash, constants_hash[:regex], k
             all_results[k] = file_results
         end
     end
@@ -90,11 +89,14 @@ end
 def prepare_seed
     files = loadSSFiles()
     results = execute_with_files files
-    puts results[:test].last
-    raise "Errors when loading equipment from files" unless check_accurate results, files
+    #puts results[:test].last
+    #raise "Errors when loading equipment from files" unless check_accurate results, files
+    #Note: no tests written for other files, too difficult to maintain =( This is a one-man winter break project...
+    #*BAD PRACTICE. then again no tests elsewhere too ><.
     return results
 end
 
+=begin
 files = loadSSFiles()
 tests = [:synth, :mast]
 file_results = {}
@@ -107,3 +109,5 @@ tests.each do |test|
   end
 end
 puts file_results[:synth]
+=end
+prepare_seed()

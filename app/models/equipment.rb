@@ -42,7 +42,7 @@ class Equipment < ActiveRecord::Base
   end
   
   def weapon?
-    !non_weapon?
+    ["Sword", "Great Sword", "Shortsword", "Spear", "Staff", "Knuckle", "Breaker", "Gun", "Scythe"].include?(item_type)
   end
   
   def non_weapon?

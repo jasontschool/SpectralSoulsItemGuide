@@ -73,3 +73,9 @@ end
 def mast
   return synth
 end
+
+def skills
+  return {
+  :regex => //
+  }
+end

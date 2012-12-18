@@ -1,0 +1,39 @@
+<h1> <%=@item.name%> </h1>
+<p> *Not an equippable item </p>
+  <li><b>Synthesis component of:</b>
+      <ul>
+        <%if @synthesizes.empty?%>
+          <li> (nothing) </li>
+        <%else%>
+          <%@synthesizes.each do |item| %>
+          <%name = item[:name]%>
+            <li> 
+              <%if item[:equip]%>
+                <%=link_to show_equipment_path(name) do name end%>
+              <%else%>
+                <%=link_to show_item_path(name) do name end%>
+              <%end%>
+            </li>
+          <%end%>
+        <%end%>
+      </ul>
+    </li>
+    
+    <li><b>Synthesized from:</b>
+      <ul>
+        <%if @components.empty?%>
+          <li> (nothing) </li>
+        <%else%>
+          <%@components.each do |item| %>
+          <%name = item[:name]%>
+            <li>   
+              <%if item[:equip]%>
+                <%=link_to show_equipment_path(name) do name end%>
+              <%else%>
+                <%=link_to show_item_path(name) do name end%>
+              <%end%>
+            </li>
+          <%end%>
+        <%end%>
+      </ul>
+    </li>

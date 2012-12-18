@@ -10,4 +10,7 @@ class ApplicationController < ActionController::Base
         end
     end
 
+    def check_equip(item)
+      {:name=> item.name, :equip=>item.equippable?}
+    end
 end

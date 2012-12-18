@@ -1,7 +1,6 @@
-IL = {
+EL = {
         setup: function() {
-            
-            //$("#sortby_name").click(function() {IL.sortTable("name")}).removeAttr('href');
+            //$("#sortby_name").click(function() {EL.sortTable("name")}).removeAttr('href');
             $("#header_name").append($('<select>', {id: 'name_search_start',
                                                     width: 110})
                                         .append(new Option("Starts with", true))
@@ -10,31 +9,31 @@ IL = {
                                                     type: 'text',
                                                     width: 150}));
 
-            IL.activate_search("name", "search_name", "name_search_start");
+            EL.activate_search("name", "search_name", "name_search_start");
             $("#header_item_type").append($('<div>', {id: 'type_list', text: "(insert list of types here)"}))
             
             $("#sortby_name").toggle(
-                    function() {IL.sortTable(true, "name")},
-                    function() {IL.sortTable(false, "name")}
+                    function() {EL.sortTable(true, "name")},
+                    function() {EL.sortTable(false, "name")}
                     ).removeAttr('href');
             $("#sortby_item_type").toggle(
-                    function() {IL.sortTable(true, "item_type")},
-                    function(){IL.sortTable(false, "item_type")}
+                    function() {EL.sortTable(true, "item_type")},
+                    function(){EL.sortTable(false, "item_type")}
                     ).removeAttr('href');
         },
         //credit: stack overflow post: http://stackoverflow.com/questions/4619375/jquery-live-search
-        activate_search: function(fiILd, input_id, check_start) {
+        activate_search: function(field, input_id, check_start) {
             $("#"+input_id).keyup(function(e) {
-                IL.search(e, fiILd, input_id, check_start);
+                EL.search(e, field, input_id, check_start);
             }).bind("paste", function(e) {
                 // have to do this so the DOM can catch up on mouse right-click paste
-                setTimeout(function() { IL.search(e, fiILd, input_id, check_start); }, 100);
+                setTimeout(function() { EL.search(e, field, input_id, check_start); }, 100);
             });
         },
-        search: function(event, fiILd, input_id, check_start) {
+        search: function(event, field, input_id, check_start) {
             var input = $("#"+input_id).val()
             if (input == "") {
-                IL.showAll();
+                EL.showAll();
             }
             else {
                 var starts = $("#"+check_start).val();
@@ -46,14 +45,14 @@ IL = {
                 }
                 var search_regex = new RegExp(loc + input, 'i');
                 $("table tbody tr").each(function() {
-                    if (search_regex.test($(this).find("#"+fiILd).text())) {
+                    if (search_regex.test($(this).find("#"+field).text())) {
                         $(this).show();
                     }
                     else {
                         $(this).hide();
                     }
                 })
-//                    + fiILd + "[" + loc + "=\"" + input.replace(/\s+/g, '_')+"\"]").show();
+//                    + field + "[" + loc + "=\"" + input.replace(/\s+/g, '_')+"\"]").show();
             }
         },
         showAll: function() {
@@ -62,13 +61,13 @@ IL = {
         hideAll: function() {
             $("table tbody tr").hide();
         },
-        sortTable: function(ascending, sortFiILd) {
-            IL.sortTableWithComparator(ascending ? IL.compareAsc : IL.compareDesc,
-                                    sortFiILd);
+        sortTable: function(ascending, sortField) {
+            EL.sortTableWithComparator(ascending ? EL.compareAsc : EL.compareDesc,
+                                    sortField);
         },
-        sortTableWithComparator: function(comparator, sortFiILd) {
-            //use plugin: sortILements
-            $("table tr td#"+sortFiILd).sortILements(comparator, function() {
+        sortTableWithComparator: function(comparator, sortField) {
+            //use plugin: sortElements
+            $("table tr td#"+sortField).sortElements(comparator, function() {
                 return this.parentNode;
             });
         },
@@ -76,7 +75,7 @@ IL = {
                 return $(a).text() > $(b).text() ? 1 : -1;
         },
         compareDesc: function(a, b) {
-                return - IL.compareAsc(a, b);
+                return - EL.compareAsc(a, b);
                 //return $(a).text() < $(b).text() ? 1 : -1;
         }
     };

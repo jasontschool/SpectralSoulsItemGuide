@@ -1,0 +1,25 @@
+<script type = "text/javascript">
+    $(IL.setup)
+    
+</script>
+<h1>Item list </h1>
+<table class = "table table-striped table-bordered table-condensed" id = "itemTable">
+    <thead>
+        <strong><tr>
+            <th id=header_name>
+                <a id =sortby_name href = <%= home_path %>> Name </a> 
+            </th> 
+             <th id=header_item_type>
+                <a id =sortby_item_type href = <%= home_path %>> Type </a> 
+            </th>
+        </tr></strong>
+    </thead>
+    <tbody>
+        <% for item in @items %>
+            <tr id = <%= item.name.gsub(/ /, "_")%>>
+                <td id=name> <%=link_to show_best_path(item) do item.name end%></td>
+                <td id=item_type> <%=item.item_type%> </td>
+            </tr>
+        <% end %>
+    </tbody>
+</table>
