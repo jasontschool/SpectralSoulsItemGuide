@@ -1,8 +1,8 @@
 class CreateRecipes < ActiveRecord::Migration
   def change
     create_table :recipes do |t|
-      t.string :result
-      t.string :component
+      t.integer :result_id
+      t.integer :component_id
 
       t.timestamps
     end
