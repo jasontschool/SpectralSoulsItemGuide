@@ -8,9 +8,10 @@ results = prepare_seed()
 #Destroy all table entries so far to maintain integrity.
 #This is to maintain exactly the right number of created recipe records
 #eg for recipes that are made of 4x same item (eg Speed Ring)
+Equipment.delete_all
 Recipe.delete_all
 Item.delete_all
-Equipment.delete_all
+InventEquip.delete_all
 
 progress = 0
 interval = 25
@@ -53,3 +54,17 @@ results[:synth].each do |item_hash|
 end
 
 puts "Completed synthesis creation!"
+
+progress = 0
+results[:invent_equip].each do |base_invents_arr|
+  progress += 1
+  if progress % interval == 0
+    puts "Adding #{base_invents_arr["base"]} inventables (number #{progress})"
+  end
+  base = create_item_with_equip(base_invents_arr["base"])
+  base_invents_arr["invents"].each do |result_name|
+    res = create_item_with_equip(result_name)
+    InventEquip.create(:base_id=>base.id, :result_id=>res.id)
+  end
+end
+puts "Completed invent equipment!"

@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20121218020039) do
+ActiveRecord::Schema.define(:version => 20121218193039) do
 
   create_table "equipment", :force => true do |t|
     t.string   "name"
@@ -25,8 +25,6 @@ ActiveRecord::Schema.define(:version => 20121218020039) do
     t.string   "register"
     t.integer  "sell"
     t.integer  "buy"
-    t.string   "invent1"
-    t.string   "invent2"
     t.string   "weapon1"
     t.integer  "weapon1_level"
     t.string   "weapon2"
@@ -101,6 +99,16 @@ ActiveRecord::Schema.define(:version => 20121218020039) do
   end
 
   add_index "equipment", ["name"], :name => "index_equipment_on_name"
+
+  create_table "invent_equips", :force => true do |t|
+    t.integer  "base_id"
+    t.integer  "result_id"
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
+  end
+
+  add_index "invent_equips", ["base_id"], :name => "index_invent_equips_on_base_id"
+  add_index "invent_equips", ["result_id"], :name => "index_invent_equips_on_result_id"
 
   create_table "items", :force => true do |t|
     t.string   "name"

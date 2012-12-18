@@ -6,6 +6,16 @@
       <li> <b><%= field.capitalize%>: </b> <%= value%></li>
     <%end%>
     
+   <%= render "shared/synth_info"%>
+    
+  </ul>
+</div>
+<div id="col2" class="col3rd">
+  <ul>
+    <% @specs.each do |field, value| %>
+      <li> <b><%= field.capitalize%>: </b> <%= value%></li>
+    <%end%>
+    
     <li><b>Invents into:</b>
       <ul>
         <%if @invents.empty?%>
@@ -17,53 +27,17 @@
         <%end%>
       </ul>
     </li>
-    
-    <li><b>Synthesis component of:</b>
+    <li><b>Invented from:</b>
       <ul>
-        <%if @synthesizes.empty?%>
+        <%if @invents_from.empty?%>
           <li> (nothing) </li>
         <%else%>
-          <%@synthesizes.each do |item| %>
-          <%name = item[:name]%>
-            <li> 
-              <%if item[:equip]%>
-                <%=link_to show_equipment_path(name) do name end%>
-              <%else%>
-                <%=link_to show_item_path(name) do name end%>
-              <%end%>
-            </li>
+          <%@invents_from.each do |name| %>
+            <li> <%=link_to show_equipment_path(name) do name end%> </li> 
           <%end%>
         <%end%>
       </ul>
     </li>
-    
-    <li><b>Synthesized from:</b>
-      <ul>
-        <%if @components.empty?%>
-          <li> (nothing) </li>
-        <%else%>
-          <%@components.each do |item| %>
-          <%name = item[:name]%>
-            <li>   
-              <%if item[:equip]%>
-                <%=link_to show_equipment_path(name) do name end%>
-              <%else%>
-                <%=link_to show_item_path(name) do name end%>
-              <%end%>
-            </li>
-          <%end%>
-        <%end%>
-      </ul>
-    </li>
-    
-    
-  </ul>
-</div>
-<div id="col2" class="col3rd">
-  <ul>
-    <% @specs.each do |field, value| %>
-      <li> <b><%= field.capitalize%>: </b> <%= value%></li>
-    <%end%>
   </ul>
 </div>
 <div id="col3" class="col3rd">

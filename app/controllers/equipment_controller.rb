@@ -10,7 +10,8 @@ class EquipmentController < ApplicationController
     if @equip.nil?
     else
       @general = @equip.basic_stats.map
-      @invents = @equip.invents_into
+      @invents = @equip.invents_into.map {|x| x.name}
+      @invents_from = @equip.invents_from.map {|x| x.name}
       @specs = @equip.spec_stats 
       @eqp_stats = @equip.eqp_stats
       @char_stats = @equip.char_stats

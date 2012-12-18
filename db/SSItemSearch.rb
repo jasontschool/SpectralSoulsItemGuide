@@ -45,6 +45,8 @@ def correct_item_hash(item_hash, source)
       else 
         item_hash.delete "sell"
       end
+      item_hash.delete "invent1" #now covered in invent_equip
+      item_hash.delete "invent2"
       return item_hash
     when :synth, :mast
       item_hash["components"] = synth_breakdown item_hash["components"]
@@ -101,9 +103,8 @@ def prepare_seed
     return results
 end
 
-def local_test
+def local_test(tests)
   files = loadSSFiles()
-  tests = [:invent_equip]
   file_results = {}
   tests.each do |test|
     if (constants_hash = get_constants test)
@@ -111,13 +112,15 @@ def local_test
       file_results[test] = get_hash_matches files, constants_hash[:regex], test
       #puts file_results
       puts "#{file_results[test].count} matches found in #{test}"
+      puts file_results[test][1..10]
     end
   end
-  puts file_results[:invent_equip][30..35]
+  
+  #puts file_results[:invent_equip][30..35]
   #puts file_results[:synth][0..10]
   #select{|x| x["components"].any?{|x| x=~ /Strata/}}
   #puts file_results[:synth].select{|x| x["name"] =~ /(Power)|(Body)/}
 end
 
 
-local_test
+#local_test([:equip])

@@ -1,19 +1,13 @@
 ItemGuide TODO:
 
 Functional:
-Fix seed: component considers V-Strata as two words (other bugs?)
-  status: Tentatively fixed.
-Synthesis component of __ should be unique.
-  status: incomplete - view-based (need to keep track of recipes, so require dup records
-Invents from __! (maybe this should be a new table altogether)
-  status: Will use invent weapon/armor/ring data.
-      *would be good to delete columns from equipment
-Invents into
-  *Maybe show the entire chain =O. see above.
+Invents into chain?
 
 search bar - top right
 
 Display AP + Cost
+
+
 
 
 Convenience/Display:
@@ -29,6 +23,9 @@ Maybe as extra expansion to side.
 
 ADD COLORS.
 
+
+
+
 Completed:
 Add other data in (eg synthesis) hi jason.
 
@@ -38,3 +35,12 @@ FIX HEROKU APP (DONE :D)
     -file loaded, heroku doesn't accept the regex for strange reason.
     
     
+Fix seed: component considers V-Strata as two words (other bugs?)
+  status: Tentatively fixed.
+
+Synthesis component of __ should be unique.
+  status: complete
+  
+Invents from __! (maybe this should be a new table altogether)
+  status: Complete - uses invent weapon/armor/ring data
+      *would be good to delete columns from equipment

@@ -1,5 +1,9 @@
 class Equipment < ActiveRecord::Base
 
+  def get_item #corresponding item record
+    Item.find_by_name(name)
+  end
+      
   def basic_stats
       return {:type => item_type,
               :element => element,
@@ -37,10 +41,11 @@ class Equipment < ActiveRecord::Base
   end
   
   def invents_into
-    temp = [invent1, invent2]
-    #temp.delete_at(1) if temp[1]=="(nothing)"
-    temp.delete("(nothing)")
-    return temp
+    get_item.invents
+  end
+  
+  def invents_from
+    get_item.invents_from
   end
   
   def weapon?
