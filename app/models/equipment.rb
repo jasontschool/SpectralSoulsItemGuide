@@ -36,7 +36,13 @@ class Equipment < ActiveRecord::Base
     return collect_stats([:str, :vit, :agl, :int, :luk])
   end
   
+  def misc_stats
+    return collect_stats([:ap, :cost])
+  end
+  
   def collect_stats(stats)
+    #Since cost at level 1 is not defined, put a temporary variable
+    cost1 = "-"
     return Hash[stats.collect {|field| [field, (1..5).map {|n| eval("#{field}#{n}")}]}]
   end
   

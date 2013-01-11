@@ -15,6 +15,7 @@ class EquipmentController < ApplicationController
       @specs = @equip.spec_stats 
       @eqp_stats = @equip.eqp_stats
       @char_stats = @equip.char_stats
+      @misc_stats = @equip.misc_stats
       
       temp = Item.find_by_name @equip.name
       @synthesizes = temp.synthesizes.map{|x| check_equip x}
