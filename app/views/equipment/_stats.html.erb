@@ -1,0 +1,42 @@
+<table class = "table table-hover table-bordered table-condensed">
+    <thead>
+      <tr>
+        <td> <b>Level</b> </td>
+        <%(1..5).each do |num| %>
+          <td><b><%=num%></b></td>
+        <%end%>
+      </tr>
+    </thead>
+    <tbody>
+      <% @eqp_stats.each do |field, values| %>
+        <tr> 
+          <td> <b><%= field.upcase%></b> </td> 
+          <%values.each do |val|%>
+            <td> <%=val%> </td>
+          <%end%>
+        </tr>
+      <%end%>
+      
+      <tr ><%(1+5).times do%><td class = "divider"><%end%></td></tr>
+      
+      <% @char_stats.each do |field, values| %>
+        <tr> 
+          <td> <b><%= field.upcase%></b> </td> 
+          <%values.each do |val|%>
+            <td> <%=val%> </td>
+          <%end%>
+        </tr>
+      <%end%>
+    
+      <tr ><%(1+5).times do%><td class = "divider"><%end%></td></tr>
+    
+      <% @misc_stats.each do |field, values| %>
+        <tr> 
+          <td> <b><%= field.upcase%></b> </td> 
+          <%values.each do |val|%>
+            <td> <%=val%> </td>
+          <%end%>
+        </tr>
+      <%end%>
+    </tbody>
+  </table>
